@@ -1,0 +1,3182 @@
+[
+  {
+    "abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": "2021-22",
+    "final_wins": 20,
+    "final_losses": 62,
+    "final_win_pct": 0.244,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 1,
+        "losses": 13,
+        "win_pct": 0.071
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 5,
+        "losses": 16,
+        "win_pct": 0.238
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 9,
+        "losses": 19,
+        "win_pct": 0.321
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 37,
+        "wins": 10,
+        "losses": 27,
+        "win_pct": 0.27
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 44,
+        "wins": 12,
+        "losses": 32,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 14,
+        "losses": 36,
+        "win_pct": 0.28
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 56,
+        "wins": 15,
+        "losses": 41,
+        "win_pct": 0.268
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 15,
+        "losses": 46,
+        "win_pct": 0.246
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 17,
+        "losses": 51,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 20,
+        "losses": 58,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 20,
+        "losses": 62,
+        "win_pct": 0.244
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 20,
+        "losses": 62,
+        "win_pct": 0.244
+      }
+    ]
+  },
+  {
+    "abbr": "ORL",
+    "team": "Orlando Magic",
+    "season": "2021-22",
+    "final_wins": 22,
+    "final_losses": 60,
+    "final_win_pct": 0.268,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 3,
+        "losses": 11,
+        "win_pct": 0.214
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 23,
+        "wins": 5,
+        "losses": 18,
+        "win_pct": 0.217
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 5,
+        "losses": 24,
+        "win_pct": 0.172
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 7,
+        "losses": 29,
+        "win_pct": 0.194
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 44,
+        "wins": 8,
+        "losses": 36,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 11,
+        "losses": 41,
+        "win_pct": 0.212
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 13,
+        "losses": 46,
+        "win_pct": 0.22
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 15,
+        "losses": 47,
+        "win_pct": 0.242
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 18,
+        "losses": 52,
+        "win_pct": 0.257
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 20,
+        "losses": 58,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      }
+    ]
+  },
+  {
+    "abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": "2021-22",
+    "final_wins": 23,
+    "final_losses": 59,
+    "final_win_pct": 0.28,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 3,
+        "losses": 10,
+        "win_pct": 0.231
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 4,
+        "losses": 17,
+        "win_pct": 0.19
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 26,
+        "wins": 4,
+        "losses": 22,
+        "win_pct": 0.154
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 34,
+        "wins": 6,
+        "losses": 28,
+        "win_pct": 0.176
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 41,
+        "wins": 10,
+        "losses": 31,
+        "win_pct": 0.244
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 12,
+        "losses": 38,
+        "win_pct": 0.24
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 12,
+        "losses": 45,
+        "win_pct": 0.211
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 15,
+        "losses": 47,
+        "win_pct": 0.242
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 18,
+        "losses": 51,
+        "win_pct": 0.261
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 22,
+        "losses": 56,
+        "win_pct": 0.282
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 23,
+        "losses": 59,
+        "win_pct": 0.28
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 23,
+        "losses": 59,
+        "win_pct": 0.28
+      }
+    ]
+  },
+  {
+    "abbr": "OKC",
+    "team": "Oklahoma City Thunder",
+    "season": "2021-22",
+    "final_wins": 24,
+    "final_losses": 58,
+    "final_win_pct": 0.293,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 5,
+        "losses": 8,
+        "win_pct": 0.385
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 6,
+        "losses": 15,
+        "win_pct": 0.286
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 27,
+        "wins": 8,
+        "losses": 19,
+        "win_pct": 0.296
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 13,
+        "losses": 22,
+        "win_pct": 0.371
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 14,
+        "losses": 28,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 49,
+        "wins": 15,
+        "losses": 34,
+        "win_pct": 0.306
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 18,
+        "losses": 39,
+        "win_pct": 0.316
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 19,
+        "losses": 42,
+        "win_pct": 0.311
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 20,
+        "losses": 48,
+        "win_pct": 0.294
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 22,
+        "losses": 55,
+        "win_pct": 0.286
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 24,
+        "losses": 58,
+        "win_pct": 0.293
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 24,
+        "losses": 58,
+        "win_pct": 0.293
+      }
+    ]
+  },
+  {
+    "abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": "2021-22",
+    "final_wins": 25,
+    "final_losses": 57,
+    "final_win_pct": 0.305,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 6,
+        "losses": 9,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 24,
+        "wins": 9,
+        "losses": 15,
+        "win_pct": 0.375
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 30,
+        "wins": 12,
+        "losses": 18,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 14,
+        "losses": 22,
+        "win_pct": 0.389
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 15,
+        "losses": 28,
+        "win_pct": 0.349
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 19,
+        "losses": 33,
+        "win_pct": 0.365
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 19,
+        "losses": 40,
+        "win_pct": 0.322
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 21,
+        "losses": 42,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 23,
+        "losses": 47,
+        "win_pct": 0.329
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 25,
+        "losses": 53,
+        "win_pct": 0.321
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 25,
+        "losses": 57,
+        "win_pct": 0.305
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 25,
+        "losses": 57,
+        "win_pct": 0.305
+      }
+    ]
+  },
+  {
+    "abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": "2021-22",
+    "final_wins": 27,
+    "final_losses": 55,
+    "final_win_pct": 0.329,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 7,
+        "losses": 8,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 11,
+        "losses": 18,
+        "win_pct": 0.379
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 13,
+        "losses": 22,
+        "win_pct": 0.371
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 17,
+        "losses": 25,
+        "win_pct": 0.405
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 21,
+        "losses": 30,
+        "win_pct": 0.412
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 24,
+        "losses": 34,
+        "win_pct": 0.414
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 25,
+        "losses": 36,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 67,
+        "wins": 26,
+        "losses": 41,
+        "win_pct": 0.388
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 27,
+        "losses": 50,
+        "win_pct": 0.351
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 27,
+        "losses": 55,
+        "win_pct": 0.329
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 27,
+        "losses": 55,
+        "win_pct": 0.329
+      }
+    ]
+  },
+  {
+    "abbr": "SAC",
+    "team": "Sacramento Kings",
+    "season": "2021-22",
+    "final_wins": 30,
+    "final_losses": 52,
+    "final_win_pct": 0.366,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 23,
+        "wins": 9,
+        "losses": 14,
+        "win_pct": 0.391
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 12,
+        "losses": 17,
+        "win_pct": 0.414
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 37,
+        "wins": 15,
+        "losses": 22,
+        "win_pct": 0.405
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 45,
+        "wins": 18,
+        "losses": 27,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 18,
+        "losses": 34,
+        "win_pct": 0.346
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 22,
+        "losses": 37,
+        "win_pct": 0.373
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 23,
+        "losses": 40,
+        "win_pct": 0.365
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 25,
+        "losses": 45,
+        "win_pct": 0.357
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 29,
+        "losses": 49,
+        "win_pct": 0.372
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 30,
+        "losses": 52,
+        "win_pct": 0.366
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 30,
+        "losses": 52,
+        "win_pct": 0.366
+      }
+    ]
+  },
+  {
+    "abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": "2021-22",
+    "final_wins": 33,
+    "final_losses": 49,
+    "final_win_pct": 0.402,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 8,
+        "losses": 7,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 23,
+        "wins": 12,
+        "losses": 11,
+        "win_pct": 0.522
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 16,
+        "losses": 13,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 37,
+        "wins": 18,
+        "losses": 19,
+        "win_pct": 0.486
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 21,
+        "losses": 22,
+        "win_pct": 0.488
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 24,
+        "losses": 27,
+        "win_pct": 0.471
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 26,
+        "losses": 31,
+        "win_pct": 0.456
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 27,
+        "losses": 34,
+        "win_pct": 0.443
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 29,
+        "losses": 39,
+        "win_pct": 0.426
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 31,
+        "losses": 46,
+        "win_pct": 0.403
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      }
+    ]
+  },
+  {
+    "abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": "2021-22",
+    "final_wins": 34,
+    "final_losses": 48,
+    "final_win_pct": 0.415,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 4,
+        "losses": 9,
+        "win_pct": 0.308
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 19,
+        "wins": 6,
+        "losses": 13,
+        "win_pct": 0.316
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 27,
+        "wins": 10,
+        "losses": 17,
+        "win_pct": 0.37
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 14,
+        "losses": 21,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 16,
+        "losses": 27,
+        "win_pct": 0.372
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 19,
+        "losses": 33,
+        "win_pct": 0.365
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 22,
+        "losses": 36,
+        "win_pct": 0.379
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 24,
+        "losses": 38,
+        "win_pct": 0.387
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 26,
+        "losses": 43,
+        "win_pct": 0.377
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 32,
+        "losses": 45,
+        "win_pct": 0.416
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 34,
+        "losses": 48,
+        "win_pct": 0.415
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 34,
+        "losses": 48,
+        "win_pct": 0.415
+      }
+    ]
+  },
+  {
+    "abbr": "WAS",
+    "team": "Washington Wizards",
+    "season": "2021-22",
+    "final_wins": 35,
+    "final_losses": 47,
+    "final_win_pct": 0.427,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 10,
+        "losses": 3,
+        "win_pct": 0.769
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 15,
+        "losses": 14,
+        "win_pct": 0.517
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 18,
+        "losses": 18,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 22,
+        "losses": 21,
+        "win_pct": 0.512
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 23,
+        "losses": 27,
+        "win_pct": 0.46
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 56,
+        "wins": 26,
+        "losses": 30,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 28,
+        "losses": 33,
+        "win_pct": 0.459
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 67,
+        "wins": 29,
+        "losses": 38,
+        "win_pct": 0.433
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 34,
+        "losses": 43,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 35,
+        "losses": 47,
+        "win_pct": 0.427
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 35,
+        "losses": 47,
+        "win_pct": 0.427
+      }
+    ]
+  },
+  {
+    "abbr": "NOP",
+    "team": "New Orleans Pelicans",
+    "season": "2021-22",
+    "final_wins": 36,
+    "final_losses": 46,
+    "final_win_pct": 0.439,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 2,
+        "losses": 13,
+        "win_pct": 0.133
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 24,
+        "wins": 6,
+        "losses": 18,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 30,
+        "wins": 9,
+        "losses": 21,
+        "win_pct": 0.3
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 13,
+        "losses": 23,
+        "win_pct": 0.361
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 16,
+        "losses": 27,
+        "win_pct": 0.372
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 19,
+        "losses": 32,
+        "win_pct": 0.373
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 23,
+        "losses": 35,
+        "win_pct": 0.397
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 25,
+        "losses": 36,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 28,
+        "losses": 41,
+        "win_pct": 0.406
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 34,
+        "losses": 43,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      }
+    ]
+  },
+  {
+    "abbr": "NYK",
+    "team": "New York Knicks",
+    "season": "2021-22",
+    "final_wins": 37,
+    "final_losses": 45,
+    "final_win_pct": 0.451,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 11,
+        "losses": 10,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 12,
+        "losses": 16,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 17,
+        "losses": 19,
+        "win_pct": 0.472
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 22,
+        "losses": 21,
+        "win_pct": 0.512
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 24,
+        "losses": 27,
+        "win_pct": 0.471
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 25,
+        "losses": 33,
+        "win_pct": 0.431
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 25,
+        "losses": 36,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 28,
+        "losses": 40,
+        "win_pct": 0.412
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 34,
+        "losses": 43,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+      }
+    ]
+  },
+  {
+    "abbr": "LAC",
+    "team": "LA Clippers",
+    "season": "2021-22",
+    "final_wins": 42,
+    "final_losses": 40,
+    "final_win_pct": 0.512,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 8,
+        "losses": 5,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 16,
+        "losses": 13,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 37,
+        "wins": 19,
+        "losses": 18,
+        "win_pct": 0.514
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 44,
+        "wins": 21,
+        "losses": 23,
+        "win_pct": 0.477
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 53,
+        "wins": 26,
+        "losses": 27,
+        "win_pct": 0.491
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 60,
+        "wins": 29,
+        "losses": 31,
+        "win_pct": 0.483
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 64,
+        "wins": 33,
+        "losses": 31,
+        "win_pct": 0.516
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 71,
+        "wins": 36,
+        "losses": 35,
+        "win_pct": 0.507
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 38,
+        "losses": 40,
+        "win_pct": 0.487
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      }
+    ]
+  },
+  {
+    "abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": "2021-22",
+    "final_wins": 43,
+    "final_losses": 39,
+    "final_win_pct": 0.524,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 6,
+        "losses": 9,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 12,
+        "losses": 10,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 16,
+        "losses": 19,
+        "win_pct": 0.457
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 17,
+        "losses": 25,
+        "win_pct": 0.405
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 24,
+        "losses": 26,
+        "win_pct": 0.48
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 27,
+        "losses": 30,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 29,
+        "losses": 32,
+        "win_pct": 0.475
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 34,
+        "losses": 34,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 40,
+        "losses": 37,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 43,
+        "losses": 39,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 43,
+        "losses": 39,
+        "win_pct": 0.524
+      }
+    ]
+  },
+  {
+    "abbr": "CHA",
+    "team": "Charlotte Hornets",
+    "season": "2021-22",
+    "final_wins": 43,
+    "final_losses": 39,
+    "final_win_pct": 0.524,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 8,
+        "losses": 7,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 24,
+        "wins": 13,
+        "losses": 11,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 30,
+        "wins": 16,
+        "losses": 14,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 19,
+        "losses": 17,
+        "win_pct": 0.528
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 23,
+        "losses": 20,
+        "win_pct": 0.535
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 28,
+        "losses": 23,
+        "win_pct": 0.549
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 29,
+        "losses": 30,
+        "win_pct": 0.492
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 30,
+        "losses": 33,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 34,
+        "losses": 35,
+        "win_pct": 0.493
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 40,
+        "losses": 37,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 43,
+        "losses": 39,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 43,
+        "losses": 39,
+        "win_pct": 0.524
+      }
+    ]
+  },
+  {
+    "abbr": "BKN",
+    "team": "Brooklyn Nets",
+    "season": "2021-22",
+    "final_wins": 44,
+    "final_losses": 38,
+    "final_win_pct": 0.537,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 10,
+        "losses": 4,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 15,
+        "losses": 6,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 20,
+        "losses": 8,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 34,
+        "wins": 23,
+        "losses": 11,
+        "win_pct": 0.676
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 27,
+        "losses": 15,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 29,
+        "losses": 21,
+        "win_pct": 0.58
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 30,
+        "losses": 27,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 32,
+        "losses": 31,
+        "win_pct": 0.508
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 36,
+        "losses": 33,
+        "win_pct": 0.522
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 40,
+        "losses": 37,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+      }
+    ]
+  },
+  {
+    "abbr": "CLE",
+    "team": "Cleveland Cavaliers",
+    "season": "2021-22",
+    "final_wins": 44,
+    "final_losses": 38,
+    "final_win_pct": 0.537,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 9,
+        "losses": 6,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 12,
+        "losses": 10,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 30,
+        "wins": 18,
+        "losses": 12,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 20,
+        "losses": 16,
+        "win_pct": 0.556
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 44,
+        "wins": 26,
+        "losses": 18,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 31,
+        "losses": 20,
+        "win_pct": 0.608
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 35,
+        "losses": 23,
+        "win_pct": 0.603
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 36,
+        "losses": 25,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 39,
+        "losses": 29,
+        "win_pct": 0.574
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 42,
+        "losses": 35,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+      }
+    ]
+  },
+  {
+    "abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": "2021-22",
+    "final_wins": 46,
+    "final_losses": 36,
+    "final_win_pct": 0.561,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 10,
+        "losses": 4,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 27,
+        "wins": 17,
+        "losses": 10,
+        "win_pct": 0.63
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 34,
+        "wins": 24,
+        "losses": 10,
+        "win_pct": 0.706
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 41,
+        "wins": 27,
+        "losses": 14,
+        "win_pct": 0.659
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 32,
+        "losses": 18,
+        "win_pct": 0.64
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 37,
+        "losses": 21,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 39,
+        "losses": 23,
+        "win_pct": 0.629
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 41,
+        "losses": 27,
+        "win_pct": 0.603
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 45,
+        "losses": 32,
+        "win_pct": 0.584
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      }
+    ]
+  },
+  {
+    "abbr": "MIN",
+    "team": "Minnesota Timberwolves",
+    "season": "2021-22",
+    "final_wins": 46,
+    "final_losses": 36,
+    "final_win_pct": 0.561,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 4,
+        "losses": 9,
+        "win_pct": 0.308
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 13,
+        "losses": 15,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 16,
+        "losses": 19,
+        "win_pct": 0.457
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 20,
+        "losses": 22,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 26,
+        "losses": 25,
+        "win_pct": 0.51
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 31,
+        "losses": 27,
+        "win_pct": 0.534
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 34,
+        "losses": 29,
+        "win_pct": 0.54
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 40,
+        "losses": 30,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 44,
+        "losses": 34,
+        "win_pct": 0.564
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      }
+    ]
+  },
+  {
+    "abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": "2021-22",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 9,
+        "losses": 5,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 10,
+        "losses": 11,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 34,
+        "wins": 18,
+        "losses": 16,
+        "win_pct": 0.529
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 41,
+        "wins": 22,
+        "losses": 19,
+        "win_pct": 0.537
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 28,
+        "losses": 22,
+        "win_pct": 0.56
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 32,
+        "losses": 25,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 36,
+        "losses": 25,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 41,
+        "losses": 28,
+        "win_pct": 0.594
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 46,
+        "losses": 32,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "TOR",
+    "team": "Toronto Raptors",
+    "season": "2021-22",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 15,
+        "wins": 7,
+        "losses": 8,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 9,
+        "losses": 13,
+        "win_pct": 0.409
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 13,
+        "losses": 15,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 32,
+        "wins": 15,
+        "losses": 17,
+        "win_pct": 0.469
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 40,
+        "wins": 21,
+        "losses": 19,
+        "win_pct": 0.525
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 49,
+        "wins": 26,
+        "losses": 23,
+        "win_pct": 0.531
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 56,
+        "wins": 31,
+        "losses": 25,
+        "win_pct": 0.554
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 34,
+        "losses": 27,
+        "win_pct": 0.557
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 38,
+        "losses": 30,
+        "win_pct": 0.559
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 45,
+        "losses": 32,
+        "win_pct": 0.584
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": "2021-22",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 8,
+        "losses": 5,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 14,
+        "losses": 7,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 27,
+        "wins": 20,
+        "losses": 7,
+        "win_pct": 0.741
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 26,
+        "losses": 10,
+        "win_pct": 0.722
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 28,
+        "losses": 14,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 30,
+        "losses": 21,
+        "win_pct": 0.588
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 36,
+        "losses": 21,
+        "win_pct": 0.632
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 60,
+        "wins": 38,
+        "losses": 22,
+        "win_pct": 0.633
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 42,
+        "losses": 26,
+        "win_pct": 0.618
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 46,
+        "losses": 31,
+        "win_pct": 0.597
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": "2021-22",
+    "final_wins": 51,
+    "final_losses": 31,
+    "final_win_pct": 0.622,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 12,
+        "losses": 10,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 17,
+        "losses": 19,
+        "win_pct": 0.472
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 44,
+        "wins": 22,
+        "losses": 22,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 27,
+        "losses": 25,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 34,
+        "losses": 25,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 64,
+        "wins": 37,
+        "losses": 27,
+        "win_pct": 0.578
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 41,
+        "losses": 28,
+        "win_pct": 0.594
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 48,
+        "losses": 30,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      }
+    ]
+  },
+  {
+    "abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": "2021-22",
+    "final_wins": 51,
+    "final_losses": 31,
+    "final_win_pct": 0.622,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 30,
+        "wins": 19,
+        "losses": 11,
+        "win_pct": 0.633
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 38,
+        "wins": 25,
+        "losses": 13,
+        "win_pct": 0.658
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 45,
+        "wins": 27,
+        "losses": 18,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 53,
+        "wins": 32,
+        "losses": 21,
+        "win_pct": 0.604
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 36,
+        "losses": 23,
+        "win_pct": 0.61
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 37,
+        "losses": 25,
+        "win_pct": 0.597
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 43,
+        "losses": 26,
+        "win_pct": 0.623
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 48,
+        "losses": 29,
+        "win_pct": 0.623
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      }
+    ]
+  },
+  {
+    "abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": "2021-22",
+    "final_wins": 51,
+    "final_losses": 31,
+    "final_win_pct": 0.622,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 15,
+        "losses": 14,
+        "win_pct": 0.517
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 19,
+        "losses": 16,
+        "win_pct": 0.543
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 25,
+        "losses": 17,
+        "win_pct": 0.595
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 31,
+        "losses": 19,
+        "win_pct": 0.62
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 34,
+        "losses": 23,
+        "win_pct": 0.596
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 60,
+        "wins": 37,
+        "losses": 23,
+        "win_pct": 0.617
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 67,
+        "wins": 41,
+        "losses": 26,
+        "win_pct": 0.612
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 76,
+        "wins": 46,
+        "losses": 30,
+        "win_pct": 0.605
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      }
+    ]
+  },
+  {
+    "abbr": "DAL",
+    "team": "Dallas Mavericks",
+    "season": "2021-22",
+    "final_wins": 52,
+    "final_losses": 30,
+    "final_win_pct": 0.634,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 9,
+        "losses": 4,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 17,
+        "losses": 18,
+        "win_pct": 0.486
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 24,
+        "losses": 19,
+        "win_pct": 0.558
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 51,
+        "wins": 29,
+        "losses": 22,
+        "win_pct": 0.569
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 34,
+        "losses": 24,
+        "win_pct": 0.586
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 37,
+        "losses": 25,
+        "win_pct": 0.597
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 68,
+        "wins": 42,
+        "losses": 26,
+        "win_pct": 0.618
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 48,
+        "losses": 30,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 52,
+        "losses": 30,
+        "win_pct": 0.634
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 52,
+        "losses": 30,
+        "win_pct": 0.634
+      }
+    ]
+  },
+  {
+    "abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": "2021-22",
+    "final_wins": 53,
+    "final_losses": 29,
+    "final_win_pct": 0.646,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 11,
+        "losses": 2,
+        "win_pct": 0.846
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 18,
+        "losses": 3,
+        "win_pct": 0.857
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 28,
+        "wins": 23,
+        "losses": 5,
+        "win_pct": 0.821
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 28,
+        "losses": 7,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 42,
+        "wins": 31,
+        "losses": 11,
+        "win_pct": 0.738
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 39,
+        "losses": 13,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 42,
+        "losses": 16,
+        "win_pct": 0.724
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 43,
+        "losses": 19,
+        "win_pct": 0.694
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 47,
+        "losses": 22,
+        "win_pct": 0.681
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 48,
+        "losses": 29,
+        "win_pct": 0.623
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      }
+    ]
+  },
+  {
+    "abbr": "MIA",
+    "team": "Miami Heat",
+    "season": "2021-22",
+    "final_wins": 53,
+    "final_losses": 29,
+    "final_win_pct": 0.646,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 9,
+        "losses": 5,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 22,
+        "wins": 13,
+        "losses": 9,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 17,
+        "losses": 12,
+        "win_pct": 0.586
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 36,
+        "wins": 23,
+        "losses": 13,
+        "win_pct": 0.639
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 43,
+        "wins": 27,
+        "losses": 16,
+        "win_pct": 0.628
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 52,
+        "wins": 32,
+        "losses": 20,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 58,
+        "wins": 37,
+        "losses": 21,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 62,
+        "wins": 41,
+        "losses": 21,
+        "win_pct": 0.661
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 46,
+        "losses": 24,
+        "win_pct": 0.657
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 49,
+        "losses": 28,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      }
+    ]
+  },
+  {
+    "abbr": "MEM",
+    "team": "Memphis Grizzlies",
+    "season": "2021-22",
+    "final_wins": 56,
+    "final_losses": 26,
+    "final_win_pct": 0.683,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 11,
+        "losses": 10,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 29,
+        "wins": 18,
+        "losses": 11,
+        "win_pct": 0.621
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 37,
+        "wins": 23,
+        "losses": 14,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 45,
+        "wins": 30,
+        "losses": 15,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 53,
+        "wins": 35,
+        "losses": 18,
+        "win_pct": 0.66
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 59,
+        "wins": 41,
+        "losses": 18,
+        "win_pct": 0.695
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 63,
+        "wins": 43,
+        "losses": 20,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 70,
+        "wins": 48,
+        "losses": 22,
+        "win_pct": 0.686
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 78,
+        "wins": 55,
+        "losses": 23,
+        "win_pct": 0.705
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 56,
+        "losses": 26,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 56,
+        "losses": 26,
+        "win_pct": 0.683
+      }
+    ]
+  },
+  {
+    "abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": "2021-22",
+    "final_wins": 64,
+    "final_losses": 18,
+    "final_win_pct": 0.78,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2021-11-15",
+        "gp": 13,
+        "wins": 10,
+        "losses": 3,
+        "win_pct": 0.769
+      },
+      {
+        "label": "Dec 01",
+        "date": "2021-12-01",
+        "gp": 21,
+        "wins": 18,
+        "losses": 3,
+        "win_pct": 0.857
+      },
+      {
+        "label": "Dec 15",
+        "date": "2021-12-15",
+        "gp": 27,
+        "wins": 22,
+        "losses": 5,
+        "win_pct": 0.815
+      },
+      {
+        "label": "Jan 01",
+        "date": "2022-01-01",
+        "gp": 35,
+        "wins": 27,
+        "losses": 8,
+        "win_pct": 0.771
+      },
+      {
+        "label": "Jan 15",
+        "date": "2022-01-15",
+        "gp": 41,
+        "wins": 32,
+        "losses": 9,
+        "win_pct": 0.78
+      },
+      {
+        "label": "Feb 01",
+        "date": "2022-02-01",
+        "gp": 50,
+        "wins": 41,
+        "losses": 9,
+        "win_pct": 0.82
+      },
+      {
+        "label": "Feb 15",
+        "date": "2022-02-15",
+        "gp": 57,
+        "wins": 47,
+        "losses": 10,
+        "win_pct": 0.825
+      },
+      {
+        "label": "Mar 01",
+        "date": "2022-03-01",
+        "gp": 61,
+        "wins": 49,
+        "losses": 12,
+        "win_pct": 0.803
+      },
+      {
+        "label": "Mar 15",
+        "date": "2022-03-15",
+        "gp": 69,
+        "wins": 55,
+        "losses": 14,
+        "win_pct": 0.797
+      },
+      {
+        "label": "Apr 01",
+        "date": "2022-04-01",
+        "gp": 77,
+        "wins": 62,
+        "losses": 15,
+        "win_pct": 0.805
+      },
+      {
+        "label": "Apr 20",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+      },
+      {
+        "label": "Final",
+        "date": "2022-04-20",
+        "gp": 82,
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+      }
+    ]
+  }
+]

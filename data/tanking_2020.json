@@ -1,0 +1,2462 @@
+[
+  {
+    "abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": "2020-21",
+    "final_wins": 17,
+    "final_losses": 55,
+    "final_win_pct": 0.236,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 3,
+        "wins": 1,
+        "losses": 2,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 10,
+        "wins": 4,
+        "losses": 6,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 10,
+        "losses": 9,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 11,
+        "losses": 16,
+        "win_pct": 0.407
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 11,
+        "losses": 22,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 37,
+        "wins": 11,
+        "losses": 26,
+        "win_pct": 0.297
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 13,
+        "losses": 34,
+        "win_pct": 0.277
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 15,
+        "losses": 43,
+        "win_pct": 0.259
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 17,
+        "losses": 55,
+        "win_pct": 0.236
+      }
+    ]
+  },
+  {
+    "abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": "2020-21",
+    "final_wins": 20,
+    "final_losses": 52,
+    "final_win_pct": 0.278,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 1,
+        "losses": 4,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 2,
+        "losses": 9,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 5,
+        "losses": 15,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 8,
+        "losses": 19,
+        "win_pct": 0.296
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 9,
+        "losses": 25,
+        "win_pct": 0.265
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 10,
+        "losses": 29,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 14,
+        "losses": 34,
+        "win_pct": 0.292
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 18,
+        "losses": 40,
+        "win_pct": 0.31
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 20,
+        "losses": 52,
+        "win_pct": 0.278
+      }
+    ]
+  },
+  {
+    "abbr": "ORL",
+    "team": "Orlando Magic",
+    "season": "2020-21",
+    "final_wins": 21,
+    "final_losses": 51,
+    "final_win_pct": 0.292,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 4,
+        "losses": 1,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 8,
+        "losses": 13,
+        "win_pct": 0.381
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 10,
+        "losses": 18,
+        "win_pct": 0.357
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 13,
+        "losses": 22,
+        "win_pct": 0.371
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 13,
+        "losses": 26,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 17,
+        "losses": 31,
+        "win_pct": 0.354
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 18,
+        "losses": 40,
+        "win_pct": 0.31
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 21,
+        "losses": 51,
+        "win_pct": 0.292
+      }
+    ]
+  },
+  {
+    "abbr": "CLE",
+    "team": "Cleveland Cavaliers",
+    "season": "2020-21",
+    "final_wins": 22,
+    "final_losses": 50,
+    "final_win_pct": 0.306,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_pct": 0.462
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 10,
+        "losses": 11,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 29,
+        "wins": 10,
+        "losses": 19,
+        "win_pct": 0.345
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 14,
+        "losses": 21,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 14,
+        "losses": 24,
+        "win_pct": 0.368
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 17,
+        "losses": 31,
+        "win_pct": 0.354
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 20,
+        "losses": 37,
+        "win_pct": 0.351
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 22,
+        "losses": 50,
+        "win_pct": 0.306
+      }
+    ]
+  },
+  {
+    "abbr": "OKC",
+    "team": "Oklahoma City Thunder",
+    "season": "2020-21",
+    "final_wins": 22,
+    "final_losses": 50,
+    "final_win_pct": 0.306,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 8,
+        "losses": 11,
+        "win_pct": 0.421
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 11,
+        "losses": 15,
+        "win_pct": 0.423
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 14,
+        "losses": 20,
+        "win_pct": 0.412
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 17,
+        "losses": 22,
+        "win_pct": 0.436
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 20,
+        "losses": 27,
+        "win_pct": 0.426
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 20,
+        "losses": 38,
+        "win_pct": 0.345
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 22,
+        "losses": 50,
+        "win_pct": 0.306
+      }
+    ]
+  },
+  {
+    "abbr": "MIN",
+    "team": "Minnesota Timberwolves",
+    "season": "2020-21",
+    "final_wins": 23,
+    "final_losses": 49,
+    "final_win_pct": 0.319,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 3,
+        "losses": 8,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 5,
+        "losses": 15,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 7,
+        "losses": 20,
+        "win_pct": 0.259
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 7,
+        "losses": 28,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 9,
+        "losses": 30,
+        "win_pct": 0.231
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 12,
+        "losses": 36,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 59,
+        "wins": 16,
+        "losses": 43,
+        "win_pct": 0.271
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 23,
+        "losses": 49,
+        "win_pct": 0.319
+      }
+    ]
+  },
+  {
+    "abbr": "TOR",
+    "team": "Toronto Raptors",
+    "season": "2020-21",
+    "final_wins": 27,
+    "final_losses": 45,
+    "final_win_pct": 0.375,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 3,
+        "losses": 8,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 8,
+        "losses": 12,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 12,
+        "losses": 15,
+        "win_pct": 0.444
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 17,
+        "losses": 17,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 17,
+        "losses": 22,
+        "win_pct": 0.436
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 18,
+        "losses": 30,
+        "win_pct": 0.375
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 24,
+        "losses": 34,
+        "win_pct": 0.414
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 27,
+        "losses": 45,
+        "win_pct": 0.375
+      }
+    ]
+  },
+  {
+    "abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": "2020-21",
+    "final_wins": 31,
+    "final_losses": 41,
+    "final_win_pct": 0.431,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 2,
+        "losses": 4,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 4,
+        "losses": 8,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 8,
+        "losses": 11,
+        "win_pct": 0.421
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 11,
+        "losses": 15,
+        "win_pct": 0.423
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 15,
+        "losses": 18,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 37,
+        "wins": 17,
+        "losses": 20,
+        "win_pct": 0.459
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 46,
+        "wins": 19,
+        "losses": 27,
+        "win_pct": 0.413
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 24,
+        "losses": 33,
+        "win_pct": 0.421
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 31,
+        "losses": 41,
+        "win_pct": 0.431
+      }
+    ]
+  },
+  {
+    "abbr": "NOP",
+    "team": "New Orleans Pelicans",
+    "season": "2020-21",
+    "final_wins": 31,
+    "final_losses": 41,
+    "final_win_pct": 0.431,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 4,
+        "losses": 7,
+        "win_pct": 0.364
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 7,
+        "losses": 12,
+        "win_pct": 0.368
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 11,
+        "losses": 15,
+        "win_pct": 0.423
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 15,
+        "losses": 19,
+        "win_pct": 0.441
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 17,
+        "losses": 22,
+        "win_pct": 0.436
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 21,
+        "losses": 26,
+        "win_pct": 0.447
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 25,
+        "losses": 33,
+        "win_pct": 0.431
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 31,
+        "losses": 41,
+        "win_pct": 0.431
+      }
+    ]
+  },
+  {
+    "abbr": "SAC",
+    "team": "Sacramento Kings",
+    "season": "2020-21",
+    "final_wins": 31,
+    "final_losses": 41,
+    "final_win_pct": 0.431,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 5,
+        "losses": 8,
+        "win_pct": 0.385
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 9,
+        "losses": 11,
+        "win_pct": 0.45
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 12,
+        "losses": 15,
+        "win_pct": 0.444
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 13,
+        "losses": 21,
+        "win_pct": 0.382
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 15,
+        "losses": 24,
+        "win_pct": 0.385
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 22,
+        "losses": 26,
+        "win_pct": 0.458
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 23,
+        "losses": 35,
+        "win_pct": 0.397
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 31,
+        "losses": 41,
+        "win_pct": 0.431
+      }
+    ]
+  },
+  {
+    "abbr": "CHA",
+    "team": "Charlotte Hornets",
+    "season": "2020-21",
+    "final_wins": 33,
+    "final_losses": 39,
+    "final_win_pct": 0.458,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_pct": 0.462
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 10,
+        "losses": 11,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 13,
+        "losses": 15,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 16,
+        "losses": 18,
+        "win_pct": 0.471
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 20,
+        "losses": 18,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 24,
+        "losses": 23,
+        "win_pct": 0.511
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 28,
+        "losses": 29,
+        "win_pct": 0.491
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 33,
+        "losses": 39,
+        "win_pct": 0.458
+      }
+    ]
+  },
+  {
+    "abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": "2020-21",
+    "final_wins": 33,
+    "final_losses": 39,
+    "final_win_pct": 0.458,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 11,
+        "losses": 10,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 16,
+        "losses": 11,
+        "win_pct": 0.593
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 30,
+        "wins": 17,
+        "losses": 13,
+        "win_pct": 0.567
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 36,
+        "wins": 20,
+        "losses": 16,
+        "win_pct": 0.556
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 46,
+        "wins": 24,
+        "losses": 22,
+        "win_pct": 0.522
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 56,
+        "wins": 28,
+        "losses": 28,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 33,
+        "losses": 39,
+        "win_pct": 0.458
+      }
+    ]
+  },
+  {
+    "abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": "2020-21",
+    "final_wins": 34,
+    "final_losses": 38,
+    "final_win_pct": 0.472,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 4,
+        "losses": 1,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 8,
+        "losses": 4,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 15,
+        "losses": 18,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 17,
+        "losses": 21,
+        "win_pct": 0.447
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 46,
+        "wins": 21,
+        "losses": 25,
+        "win_pct": 0.457
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 26,
+        "losses": 31,
+        "win_pct": 0.456
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 34,
+        "losses": 38,
+        "win_pct": 0.472
+      }
+    ]
+  },
+  {
+    "abbr": "WAS",
+    "team": "Washington Wizards",
+    "season": "2020-21",
+    "final_wins": 34,
+    "final_losses": 38,
+    "final_win_pct": 0.472,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 1,
+        "losses": 5,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 3,
+        "losses": 8,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 16,
+        "wins": 4,
+        "losses": 12,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 25,
+        "wins": 8,
+        "losses": 17,
+        "win_pct": 0.32
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 32,
+        "wins": 13,
+        "losses": 19,
+        "win_pct": 0.406
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 14,
+        "losses": 24,
+        "win_pct": 0.368
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 17,
+        "losses": 30,
+        "win_pct": 0.362
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 24,
+        "losses": 33,
+        "win_pct": 0.421
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 34,
+        "losses": 38,
+        "win_pct": 0.472
+      }
+    ]
+  },
+  {
+    "abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": "2020-21",
+    "final_wins": 36,
+    "final_losses": 36,
+    "final_win_pct": 0.5,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 8,
+        "losses": 3,
+        "win_pct": 0.727
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 18,
+        "wins": 10,
+        "losses": 8,
+        "win_pct": 0.556
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 13,
+        "losses": 13,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 17,
+        "losses": 17,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 20,
+        "losses": 18,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 23,
+        "losses": 25,
+        "win_pct": 0.479
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 31,
+        "losses": 27,
+        "win_pct": 0.534
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 36,
+        "losses": 36,
+        "win_pct": 0.5
+      }
+    ]
+  },
+  {
+    "abbr": "MEM",
+    "team": "Memphis Grizzlies",
+    "season": "2020-21",
+    "final_wins": 38,
+    "final_losses": 34,
+    "final_win_pct": 0.528,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 15,
+        "wins": 9,
+        "losses": 6,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 30,
+        "wins": 15,
+        "losses": 15,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 36,
+        "wins": 17,
+        "losses": 19,
+        "win_pct": 0.472
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 45,
+        "wins": 22,
+        "losses": 23,
+        "win_pct": 0.489
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 56,
+        "wins": 29,
+        "losses": 27,
+        "win_pct": 0.518
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 38,
+        "losses": 34,
+        "win_pct": 0.528
+      }
+    ]
+  },
+  {
+    "abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": "2020-21",
+    "final_wins": 39,
+    "final_losses": 33,
+    "final_win_pct": 0.542,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 15,
+        "losses": 13,
+        "win_pct": 0.536
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 19,
+        "losses": 16,
+        "win_pct": 0.543
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 40,
+        "wins": 20,
+        "losses": 20,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 23,
+        "losses": 25,
+        "win_pct": 0.479
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 29,
+        "losses": 29,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 39,
+        "losses": 33,
+        "win_pct": 0.542
+      }
+    ]
+  },
+  {
+    "abbr": "MIA",
+    "team": "Miami Heat",
+    "season": "2020-21",
+    "final_wins": 40,
+    "final_losses": 32,
+    "final_win_pct": 0.556,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 10,
+        "wins": 4,
+        "losses": 6,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 7,
+        "losses": 13,
+        "win_pct": 0.35
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 11,
+        "losses": 16,
+        "win_pct": 0.407
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 17,
+        "losses": 17,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 21,
+        "losses": 18,
+        "win_pct": 0.538
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 49,
+        "wins": 25,
+        "losses": 24,
+        "win_pct": 0.51
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 30,
+        "losses": 28,
+        "win_pct": 0.517
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 40,
+        "losses": 32,
+        "win_pct": 0.556
+      }
+    ]
+  },
+  {
+    "abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": "2020-21",
+    "final_wins": 41,
+    "final_losses": 31,
+    "final_win_pct": 0.569,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 4,
+        "losses": 1,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 10,
+        "losses": 10,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 11,
+        "losses": 16,
+        "win_pct": 0.407
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 14,
+        "losses": 20,
+        "win_pct": 0.412
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 19,
+        "losses": 20,
+        "win_pct": 0.487
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 24,
+        "losses": 24,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 32,
+        "losses": 26,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 41,
+        "losses": 31,
+        "win_pct": 0.569
+      }
+    ]
+  },
+  {
+    "abbr": "NYK",
+    "team": "New York Knicks",
+    "season": "2020-21",
+    "final_wins": 41,
+    "final_losses": 31,
+    "final_win_pct": 0.569,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 5,
+        "losses": 8,
+        "win_pct": 0.385
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 22,
+        "wins": 9,
+        "losses": 13,
+        "win_pct": 0.409
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 29,
+        "wins": 14,
+        "losses": 15,
+        "win_pct": 0.483
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 18,
+        "losses": 17,
+        "win_pct": 0.514
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 40,
+        "wins": 20,
+        "losses": 20,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 24,
+        "losses": 24,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 59,
+        "wins": 32,
+        "losses": 27,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 41,
+        "losses": 31,
+        "win_pct": 0.569
+      }
+    ]
+  },
+  {
+    "abbr": "DAL",
+    "team": "Dallas Mavericks",
+    "season": "2020-21",
+    "final_wins": 42,
+    "final_losses": 30,
+    "final_win_pct": 0.583,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 8,
+        "losses": 13,
+        "win_pct": 0.381
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 13,
+        "losses": 15,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 17,
+        "losses": 16,
+        "win_pct": 0.515
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 20,
+        "losses": 18,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 46,
+        "wins": 25,
+        "losses": 21,
+        "win_pct": 0.543
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 56,
+        "wins": 30,
+        "losses": 26,
+        "win_pct": 0.536
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 42,
+        "losses": 30,
+        "win_pct": 0.583
+      }
+    ]
+  },
+  {
+    "abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": "2020-21",
+    "final_wins": 42,
+    "final_losses": 30,
+    "final_win_pct": 0.583,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 4,
+        "losses": 2,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 14,
+        "wins": 11,
+        "losses": 3,
+        "win_pct": 0.786
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 22,
+        "wins": 16,
+        "losses": 6,
+        "win_pct": 0.727
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 21,
+        "losses": 7,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 24,
+        "losses": 11,
+        "win_pct": 0.686
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 26,
+        "losses": 13,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 30,
+        "losses": 18,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 35,
+        "losses": 23,
+        "win_pct": 0.603
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 42,
+        "losses": 30,
+        "win_pct": 0.583
+      }
+    ]
+  },
+  {
+    "abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": "2020-21",
+    "final_wins": 42,
+    "final_losses": 30,
+    "final_win_pct": 0.583,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 7,
+        "losses": 5,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 10,
+        "losses": 9,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 16,
+        "losses": 10,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 19,
+        "losses": 14,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 22,
+        "losses": 16,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 29,
+        "losses": 18,
+        "win_pct": 0.617
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 32,
+        "losses": 25,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 42,
+        "losses": 30,
+        "win_pct": 0.583
+      }
+    ]
+  },
+  {
+    "abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": "2020-21",
+    "final_wins": 46,
+    "final_losses": 26,
+    "final_win_pct": 0.639,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 9,
+        "losses": 4,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 12,
+        "losses": 8,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 27,
+        "wins": 16,
+        "losses": 11,
+        "win_pct": 0.593
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 21,
+        "losses": 13,
+        "win_pct": 0.618
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 25,
+        "losses": 14,
+        "win_pct": 0.641
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 30,
+        "losses": 17,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 35,
+        "losses": 22,
+        "win_pct": 0.614
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 46,
+        "losses": 26,
+        "win_pct": 0.639
+      }
+    ]
+  },
+  {
+    "abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": "2020-21",
+    "final_wins": 47,
+    "final_losses": 25,
+    "final_win_pct": 0.653,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 1,
+        "losses": 4,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 12,
+        "losses": 8,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 15,
+        "losses": 11,
+        "win_pct": 0.577
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 34,
+        "wins": 19,
+        "losses": 15,
+        "win_pct": 0.559
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 23,
+        "losses": 16,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 30,
+        "losses": 18,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 37,
+        "losses": 20,
+        "win_pct": 0.649
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 47,
+        "losses": 25,
+        "win_pct": 0.653
+      }
+    ]
+  },
+  {
+    "abbr": "LAC",
+    "team": "LA Clippers",
+    "season": "2020-21",
+    "final_wins": 47,
+    "final_losses": 25,
+    "final_win_pct": 0.653,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 4,
+        "losses": 2,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 9,
+        "losses": 4,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 16,
+        "losses": 5,
+        "win_pct": 0.762
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 29,
+        "wins": 21,
+        "losses": 8,
+        "win_pct": 0.724
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 36,
+        "wins": 24,
+        "losses": 12,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 41,
+        "wins": 26,
+        "losses": 15,
+        "win_pct": 0.634
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 50,
+        "wins": 32,
+        "losses": 18,
+        "win_pct": 0.64
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 60,
+        "wins": 41,
+        "losses": 19,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 47,
+        "losses": 25,
+        "win_pct": 0.653
+      }
+    ]
+  },
+  {
+    "abbr": "BKN",
+    "team": "Brooklyn Nets",
+    "season": "2020-21",
+    "final_wins": 48,
+    "final_losses": 24,
+    "final_win_pct": 0.667,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 7,
+        "losses": 6,
+        "win_pct": 0.538
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 22,
+        "wins": 13,
+        "losses": 9,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 29,
+        "wins": 17,
+        "losses": 12,
+        "win_pct": 0.586
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 36,
+        "wins": 23,
+        "losses": 13,
+        "win_pct": 0.639
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 40,
+        "wins": 27,
+        "losses": 13,
+        "win_pct": 0.675
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 49,
+        "wins": 34,
+        "losses": 15,
+        "win_pct": 0.694
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 39,
+        "losses": 19,
+        "win_pct": 0.672
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 48,
+        "losses": 24,
+        "win_pct": 0.667
+      }
+    ]
+  },
+  {
+    "abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": "2020-21",
+    "final_wins": 49,
+    "final_losses": 23,
+    "final_win_pct": 0.681,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 4,
+        "losses": 1,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 13,
+        "wins": 9,
+        "losses": 4,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 21,
+        "wins": 15,
+        "losses": 6,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 18,
+        "losses": 10,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 23,
+        "losses": 12,
+        "win_pct": 0.657
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 39,
+        "wins": 27,
+        "losses": 12,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 48,
+        "wins": 33,
+        "losses": 15,
+        "win_pct": 0.688
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 39,
+        "losses": 18,
+        "win_pct": 0.684
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 49,
+        "losses": 23,
+        "win_pct": 0.681
+      }
+    ]
+  },
+  {
+    "abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": "2020-21",
+    "final_wins": 51,
+    "final_losses": 21,
+    "final_win_pct": 0.708,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 6,
+        "wins": 5,
+        "losses": 1,
+        "win_pct": 0.833
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 19,
+        "wins": 11,
+        "losses": 8,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 26,
+        "wins": 17,
+        "losses": 9,
+        "win_pct": 0.654
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 33,
+        "wins": 22,
+        "losses": 11,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 26,
+        "losses": 12,
+        "win_pct": 0.684
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 33,
+        "losses": 14,
+        "win_pct": 0.702
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 57,
+        "wins": 41,
+        "losses": 16,
+        "win_pct": 0.719
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 51,
+        "losses": 21,
+        "win_pct": 0.708
+      }
+    ]
+  },
+  {
+    "abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": "2020-21",
+    "final_wins": 52,
+    "final_losses": 20,
+    "final_win_pct": 0.722,
+    "snapshots": [
+      {
+        "label": "Jan 01",
+        "date": "2021-01-01",
+        "gp": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Jan 15",
+        "date": "2021-01-15",
+        "gp": 12,
+        "wins": 8,
+        "losses": 4,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Feb 01",
+        "date": "2021-02-01",
+        "gp": 20,
+        "wins": 15,
+        "losses": 5,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Feb 15",
+        "date": "2021-02-15",
+        "gp": 28,
+        "wins": 23,
+        "losses": 5,
+        "win_pct": 0.821
+      },
+      {
+        "label": "Mar 01",
+        "date": "2021-03-01",
+        "gp": 35,
+        "wins": 27,
+        "losses": 8,
+        "win_pct": 0.771
+      },
+      {
+        "label": "Mar 15",
+        "date": "2021-03-15",
+        "gp": 38,
+        "wins": 28,
+        "losses": 10,
+        "win_pct": 0.737
+      },
+      {
+        "label": "Apr 01",
+        "date": "2021-04-01",
+        "gp": 47,
+        "wins": 36,
+        "losses": 11,
+        "win_pct": 0.766
+      },
+      {
+        "label": "Apr 20",
+        "date": "2021-04-20",
+        "gp": 58,
+        "wins": 43,
+        "losses": 15,
+        "win_pct": 0.741
+      },
+      {
+        "label": "Final",
+        "date": "2021-05-16",
+        "gp": 72,
+        "wins": 52,
+        "losses": 20,
+        "win_pct": 0.722
+      }
+    ]
+  }
+]

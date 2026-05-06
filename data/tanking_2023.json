@@ -1,0 +1,3182 @@
+[
+  {
+    "abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": "2023-24",
+    "final_wins": 14,
+    "final_losses": 68,
+    "final_win_pct": 0.171,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 12,
+        "wins": 2,
+        "losses": 10,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 2,
+        "losses": 17,
+        "win_pct": 0.105
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 2,
+        "losses": 23,
+        "win_pct": 0.08
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 3,
+        "losses": 30,
+        "win_pct": 0.091
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 4,
+        "losses": 36,
+        "win_pct": 0.1
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 6,
+        "losses": 41,
+        "win_pct": 0.128
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 8,
+        "losses": 46,
+        "win_pct": 0.148
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 9,
+        "losses": 50,
+        "win_pct": 0.153
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 12,
+        "losses": 54,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 13,
+        "losses": 62,
+        "win_pct": 0.173
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 14,
+        "losses": 68,
+        "win_pct": 0.171
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 14,
+        "losses": 68,
+        "win_pct": 0.171
+      }
+    ]
+  },
+  {
+    "abbr": "WAS",
+    "team": "Washington Wizards",
+    "season": "2023-24",
+    "final_wins": 15,
+    "final_losses": 67,
+    "final_win_pct": 0.183,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 2,
+        "losses": 9,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 3,
+        "losses": 16,
+        "win_pct": 0.158
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 4,
+        "losses": 20,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 6,
+        "losses": 26,
+        "win_pct": 0.188
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 7,
+        "losses": 32,
+        "win_pct": 0.179
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 9,
+        "losses": 38,
+        "win_pct": 0.191
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 9,
+        "losses": 45,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 9,
+        "losses": 51,
+        "win_pct": 0.15
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 11,
+        "losses": 55,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 14,
+        "losses": 61,
+        "win_pct": 0.187
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 15,
+        "losses": 67,
+        "win_pct": 0.183
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 15,
+        "losses": 67,
+        "win_pct": 0.183
+      }
+    ]
+  },
+  {
+    "abbr": "CHA",
+    "team": "Charlotte Hornets",
+    "season": "2023-24",
+    "final_wins": 21,
+    "final_losses": 61,
+    "final_win_pct": 0.256,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 10,
+        "wins": 3,
+        "losses": 7,
+        "win_pct": 0.3
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 17,
+        "wins": 6,
+        "losses": 11,
+        "win_pct": 0.353
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 7,
+        "losses": 16,
+        "win_pct": 0.304
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 31,
+        "wins": 7,
+        "losses": 24,
+        "win_pct": 0.226
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 37,
+        "wins": 8,
+        "losses": 29,
+        "win_pct": 0.216
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 46,
+        "wins": 10,
+        "losses": 36,
+        "win_pct": 0.217
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 13,
+        "losses": 41,
+        "win_pct": 0.241
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 15,
+        "losses": 45,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 17,
+        "losses": 50,
+        "win_pct": 0.254
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 18,
+        "losses": 57,
+        "win_pct": 0.24
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+      }
+    ]
+  },
+  {
+    "abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": "2023-24",
+    "final_wins": 21,
+    "final_losses": 61,
+    "final_win_pct": 0.256,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 3,
+        "losses": 8,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 6,
+        "losses": 12,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 6,
+        "losses": 17,
+        "win_pct": 0.261
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 9,
+        "losses": 23,
+        "win_pct": 0.281
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 10,
+        "losses": 29,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 15,
+        "losses": 33,
+        "win_pct": 0.313
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 15,
+        "losses": 39,
+        "win_pct": 0.278
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 58,
+        "wins": 16,
+        "losses": 42,
+        "win_pct": 0.276
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 19,
+        "losses": 47,
+        "win_pct": 0.288
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 19,
+        "losses": 56,
+        "win_pct": 0.253
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+      }
+    ]
+  },
+  {
+    "abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": "2023-24",
+    "final_wins": 22,
+    "final_losses": 60,
+    "final_win_pct": 0.268,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 3,
+        "losses": 8,
+        "win_pct": 0.273
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 3,
+        "losses": 16,
+        "win_pct": 0.158
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 4,
+        "losses": 20,
+        "win_pct": 0.167
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 5,
+        "losses": 27,
+        "win_pct": 0.156
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 7,
+        "losses": 32,
+        "win_pct": 0.179
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 10,
+        "losses": 38,
+        "win_pct": 0.208
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 11,
+        "losses": 44,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 12,
+        "losses": 48,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 14,
+        "losses": 53,
+        "win_pct": 0.209
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 18,
+        "losses": 57,
+        "win_pct": 0.24
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      }
+    ]
+  },
+  {
+    "abbr": "TOR",
+    "team": "Toronto Raptors",
+    "season": "2023-24",
+    "final_wins": 25,
+    "final_losses": 57,
+    "final_win_pct": 0.305,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 20,
+        "wins": 9,
+        "losses": 11,
+        "win_pct": 0.45
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 10,
+        "losses": 15,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 13,
+        "losses": 20,
+        "win_pct": 0.394
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 15,
+        "losses": 25,
+        "win_pct": 0.375
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 17,
+        "losses": 30,
+        "win_pct": 0.362
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 19,
+        "losses": 36,
+        "win_pct": 0.345
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 22,
+        "losses": 38,
+        "win_pct": 0.367
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 23,
+        "losses": 44,
+        "win_pct": 0.343
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 23,
+        "losses": 51,
+        "win_pct": 0.311
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 25,
+        "losses": 57,
+        "win_pct": 0.305
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 25,
+        "losses": 57,
+        "win_pct": 0.305
+      }
+    ]
+  },
+  {
+    "abbr": "MEM",
+    "team": "Memphis Grizzlies",
+    "season": "2023-24",
+    "final_wins": 27,
+    "final_losses": 55,
+    "final_win_pct": 0.329,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 2,
+        "losses": 9,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 5,
+        "losses": 13,
+        "win_pct": 0.278
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 6,
+        "losses": 18,
+        "win_pct": 0.25
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 10,
+        "losses": 22,
+        "win_pct": 0.313
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 15,
+        "losses": 25,
+        "win_pct": 0.375
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 18,
+        "losses": 30,
+        "win_pct": 0.375
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 56,
+        "wins": 20,
+        "losses": 36,
+        "win_pct": 0.357
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 20,
+        "losses": 40,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 23,
+        "losses": 44,
+        "win_pct": 0.343
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 25,
+        "losses": 50,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 27,
+        "losses": 55,
+        "win_pct": 0.329
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 27,
+        "losses": 55,
+        "win_pct": 0.329
+      }
+    ]
+  },
+  {
+    "abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": "2023-24",
+    "final_wins": 31,
+    "final_losses": 51,
+    "final_win_pct": 0.378,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 4,
+        "losses": 7,
+        "win_pct": 0.364
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 6,
+        "losses": 13,
+        "win_pct": 0.316
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 9,
+        "losses": 16,
+        "win_pct": 0.36
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 34,
+        "wins": 15,
+        "losses": 19,
+        "win_pct": 0.441
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 42,
+        "wins": 22,
+        "losses": 20,
+        "win_pct": 0.524
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 50,
+        "wins": 24,
+        "losses": 26,
+        "win_pct": 0.48
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 56,
+        "wins": 26,
+        "losses": 30,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 27,
+        "losses": 33,
+        "win_pct": 0.45
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 29,
+        "losses": 37,
+        "win_pct": 0.439
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 29,
+        "losses": 46,
+        "win_pct": 0.387
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 31,
+        "losses": 51,
+        "win_pct": 0.378
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 31,
+        "losses": 51,
+        "win_pct": 0.378
+      }
+    ]
+  },
+  {
+    "abbr": "BKN",
+    "team": "Brooklyn Nets",
+    "season": "2023-24",
+    "final_wins": 32,
+    "final_losses": 50,
+    "final_win_pct": 0.39,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 9,
+        "losses": 9,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 13,
+        "losses": 11,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 15,
+        "losses": 18,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 16,
+        "losses": 23,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 19,
+        "losses": 28,
+        "win_pct": 0.404
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 21,
+        "losses": 33,
+        "win_pct": 0.389
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 23,
+        "losses": 36,
+        "win_pct": 0.39
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 26,
+        "losses": 40,
+        "win_pct": 0.394
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 76,
+        "wins": 29,
+        "losses": 47,
+        "win_pct": 0.382
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 32,
+        "losses": 50,
+        "win_pct": 0.39
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 32,
+        "losses": 50,
+        "win_pct": 0.39
+      }
+    ]
+  },
+  {
+    "abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": "2023-24",
+    "final_wins": 36,
+    "final_losses": 46,
+    "final_win_pct": 0.439,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 9,
+        "losses": 9,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 10,
+        "losses": 14,
+        "win_pct": 0.417
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 13,
+        "losses": 19,
+        "win_pct": 0.406
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 16,
+        "losses": 23,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 20,
+        "losses": 27,
+        "win_pct": 0.426
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 24,
+        "losses": 31,
+        "win_pct": 0.436
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 26,
+        "losses": 33,
+        "win_pct": 0.441
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 29,
+        "losses": 37,
+        "win_pct": 0.439
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 35,
+        "losses": 40,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      }
+    ]
+  },
+  {
+    "abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": "2023-24",
+    "final_wins": 39,
+    "final_losses": 43,
+    "final_win_pct": 0.476,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 12,
+        "wins": 4,
+        "losses": 8,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 20,
+        "wins": 6,
+        "losses": 14,
+        "win_pct": 0.3
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 26,
+        "wins": 10,
+        "losses": 16,
+        "win_pct": 0.385
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 34,
+        "wins": 15,
+        "losses": 19,
+        "win_pct": 0.441
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 42,
+        "wins": 19,
+        "losses": 23,
+        "win_pct": 0.452
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 49,
+        "wins": 23,
+        "losses": 26,
+        "win_pct": 0.469
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 26,
+        "losses": 29,
+        "win_pct": 0.473
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 28,
+        "losses": 32,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 32,
+        "losses": 35,
+        "win_pct": 0.478
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 76,
+        "wins": 36,
+        "losses": 40,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      }
+    ]
+  },
+  {
+    "abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": "2023-24",
+    "final_wins": 41,
+    "final_losses": 41,
+    "final_win_pct": 0.5,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 9,
+        "wins": 6,
+        "losses": 3,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 16,
+        "wins": 8,
+        "losses": 8,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 22,
+        "wins": 13,
+        "losses": 9,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 31,
+        "wins": 16,
+        "losses": 15,
+        "win_pct": 0.516
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 19,
+        "losses": 20,
+        "win_pct": 0.487
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 22,
+        "losses": 25,
+        "win_pct": 0.468
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 24,
+        "losses": 30,
+        "win_pct": 0.444
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 25,
+        "losses": 34,
+        "win_pct": 0.424
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 31,
+        "losses": 35,
+        "win_pct": 0.47
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 38,
+        "losses": 36,
+        "win_pct": 0.514
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+      }
+    ]
+  },
+  {
+    "abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": "2023-24",
+    "final_wins": 46,
+    "final_losses": 36,
+    "final_win_pct": 0.561,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 9,
+        "losses": 10,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 10,
+        "losses": 14,
+        "win_pct": 0.417
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 15,
+        "losses": 17,
+        "win_pct": 0.469
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 18,
+        "losses": 22,
+        "win_pct": 0.45
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 44,
+        "wins": 20,
+        "losses": 24,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 53,
+        "wins": 27,
+        "losses": 26,
+        "win_pct": 0.509
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 32,
+        "losses": 27,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 65,
+        "wins": 34,
+        "losses": 31,
+        "win_pct": 0.523
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 40,
+        "losses": 34,
+        "win_pct": 0.541
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      }
+    ]
+  },
+  {
+    "abbr": "MIA",
+    "team": "Miami Heat",
+    "season": "2023-24",
+    "final_wins": 46,
+    "final_losses": 36,
+    "final_win_pct": 0.561,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 11,
+        "losses": 8,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 14,
+        "losses": 11,
+        "win_pct": 0.56
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 19,
+        "losses": 14,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 24,
+        "losses": 16,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 25,
+        "losses": 23,
+        "win_pct": 0.521
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 30,
+        "losses": 25,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 33,
+        "losses": 26,
+        "win_pct": 0.559
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 36,
+        "losses": 30,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 41,
+        "losses": 33,
+        "win_pct": 0.554
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      }
+    ]
+  },
+  {
+    "abbr": "SAC",
+    "team": "Sacramento Kings",
+    "season": "2023-24",
+    "final_wins": 46,
+    "final_losses": 36,
+    "final_win_pct": 0.561,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 10,
+        "wins": 6,
+        "losses": 4,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 17,
+        "wins": 10,
+        "losses": 7,
+        "win_pct": 0.588
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 14,
+        "losses": 9,
+        "win_pct": 0.609
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 31,
+        "wins": 19,
+        "losses": 12,
+        "win_pct": 0.613
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 23,
+        "losses": 16,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 46,
+        "wins": 27,
+        "losses": 19,
+        "win_pct": 0.587
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 31,
+        "losses": 23,
+        "win_pct": 0.574
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 34,
+        "losses": 25,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 65,
+        "wins": 38,
+        "losses": 27,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 43,
+        "losses": 31,
+        "win_pct": 0.581
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 46,
+        "losses": 36,
+        "win_pct": 0.561
+      }
+    ]
+  },
+  {
+    "abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": "2023-24",
+    "final_wins": 47,
+    "final_losses": 35,
+    "final_win_pct": 0.573,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 17,
+        "wins": 9,
+        "losses": 8,
+        "win_pct": 0.529
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 13,
+        "losses": 10,
+        "win_pct": 0.565
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 18,
+        "losses": 14,
+        "win_pct": 0.563
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 23,
+        "losses": 17,
+        "win_pct": 0.575
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 49,
+        "wins": 27,
+        "losses": 22,
+        "win_pct": 0.551
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 56,
+        "wins": 31,
+        "losses": 25,
+        "win_pct": 0.554
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 61,
+        "wins": 34,
+        "losses": 27,
+        "win_pct": 0.557
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 37,
+        "losses": 30,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 76,
+        "wins": 43,
+        "losses": 33,
+        "win_pct": 0.566
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      }
+    ]
+  },
+  {
+    "abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": "2023-24",
+    "final_wins": 47,
+    "final_losses": 35,
+    "final_win_pct": 0.573,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 26,
+        "wins": 15,
+        "losses": 11,
+        "win_pct": 0.577
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 34,
+        "wins": 17,
+        "losses": 17,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 41,
+        "wins": 20,
+        "losses": 21,
+        "win_pct": 0.488
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 50,
+        "wins": 25,
+        "losses": 25,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 56,
+        "wins": 30,
+        "losses": 26,
+        "win_pct": 0.536
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 61,
+        "wins": 33,
+        "losses": 28,
+        "win_pct": 0.541
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 36,
+        "losses": 31,
+        "win_pct": 0.537
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 42,
+        "losses": 33,
+        "win_pct": 0.56
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      }
+    ]
+  },
+  {
+    "abbr": "ORL",
+    "team": "Orlando Magic",
+    "season": "2023-24",
+    "final_wins": 47,
+    "final_losses": 35,
+    "final_win_pct": 0.573,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 14,
+        "losses": 5,
+        "win_pct": 0.737
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 16,
+        "losses": 8,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 19,
+        "losses": 13,
+        "win_pct": 0.594
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 22,
+        "losses": 18,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 25,
+        "losses": 23,
+        "win_pct": 0.521
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 30,
+        "losses": 25,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 34,
+        "losses": 26,
+        "win_pct": 0.567
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 39,
+        "losses": 28,
+        "win_pct": 0.582
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 44,
+        "losses": 31,
+        "win_pct": 0.587
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      }
+    ]
+  },
+  {
+    "abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": "2023-24",
+    "final_wins": 47,
+    "final_losses": 35,
+    "final_win_pct": 0.573,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 8,
+        "losses": 3,
+        "win_pct": 0.727
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 12,
+        "losses": 7,
+        "win_pct": 0.632
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 17,
+        "losses": 7,
+        "win_pct": 0.708
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 22,
+        "losses": 10,
+        "win_pct": 0.688
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 38,
+        "wins": 25,
+        "losses": 13,
+        "win_pct": 0.658
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 47,
+        "wins": 30,
+        "losses": 17,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 32,
+        "losses": 22,
+        "win_pct": 0.593
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 34,
+        "losses": 25,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 36,
+        "losses": 30,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 40,
+        "losses": 35,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 47,
+        "losses": 35,
+        "win_pct": 0.573
+      }
+    ]
+  },
+  {
+    "abbr": "CLE",
+    "team": "Cleveland Cavaliers",
+    "season": "2023-24",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 10,
+        "losses": 9,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 13,
+        "losses": 12,
+        "win_pct": 0.52
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 18,
+        "losses": 15,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 38,
+        "wins": 23,
+        "losses": 15,
+        "win_pct": 0.605
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 46,
+        "wins": 30,
+        "losses": 16,
+        "win_pct": 0.652
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 53,
+        "wins": 36,
+        "losses": 17,
+        "win_pct": 0.679
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 39,
+        "losses": 20,
+        "win_pct": 0.661
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 42,
+        "losses": 24,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 45,
+        "losses": 30,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": "2023-24",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 13,
+        "losses": 6,
+        "win_pct": 0.684
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 17,
+        "losses": 7,
+        "win_pct": 0.708
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 24,
+        "losses": 9,
+        "win_pct": 0.727
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 28,
+        "losses": 12,
+        "win_pct": 0.7
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 32,
+        "losses": 16,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 56,
+        "wins": 35,
+        "losses": 21,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 61,
+        "wins": 40,
+        "losses": 21,
+        "win_pct": 0.656
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 43,
+        "losses": 24,
+        "win_pct": 0.642
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 47,
+        "losses": 27,
+        "win_pct": 0.635
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "NOP",
+    "team": "New Orleans Pelicans",
+    "season": "2023-24",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_pct": 0.55
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 26,
+        "wins": 15,
+        "losses": 11,
+        "win_pct": 0.577
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 19,
+        "losses": 14,
+        "win_pct": 0.576
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 41,
+        "wins": 24,
+        "losses": 17,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 27,
+        "losses": 21,
+        "win_pct": 0.563
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 33,
+        "losses": 22,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 61,
+        "wins": 36,
+        "losses": 25,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 40,
+        "losses": 26,
+        "win_pct": 0.606
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 45,
+        "losses": 30,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": "2023-24",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 5,
+        "losses": 6,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 11,
+        "losses": 8,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 25,
+        "wins": 13,
+        "losses": 12,
+        "win_pct": 0.52
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 18,
+        "losses": 15,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 21,
+        "losses": 18,
+        "win_pct": 0.538
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 28,
+        "losses": 20,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 33,
+        "losses": 22,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 35,
+        "losses": 24,
+        "win_pct": 0.593
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 39,
+        "losses": 28,
+        "win_pct": 0.582
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 44,
+        "losses": 31,
+        "win_pct": 0.587
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "DAL",
+    "team": "Dallas Mavericks",
+    "season": "2023-24",
+    "final_wins": 50,
+    "final_losses": 32,
+    "final_win_pct": 0.61,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 12,
+        "wins": 9,
+        "losses": 3,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 11,
+        "losses": 7,
+        "win_pct": 0.611
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 15,
+        "losses": 9,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 34,
+        "wins": 19,
+        "losses": 15,
+        "win_pct": 0.559
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 41,
+        "wins": 24,
+        "losses": 17,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 26,
+        "losses": 22,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 32,
+        "losses": 23,
+        "win_pct": 0.582
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 34,
+        "losses": 26,
+        "win_pct": 0.567
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 38,
+        "losses": 29,
+        "win_pct": 0.567
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 45,
+        "losses": 29,
+        "win_pct": 0.608
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      }
+    ]
+  },
+  {
+    "abbr": "NYK",
+    "team": "New York Knicks",
+    "season": "2023-24",
+    "final_wins": 50,
+    "final_losses": 32,
+    "final_win_pct": 0.61,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 12,
+        "losses": 7,
+        "win_pct": 0.632
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 14,
+        "losses": 10,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 33,
+        "wins": 18,
+        "losses": 15,
+        "win_pct": 0.545
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 23,
+        "losses": 17,
+        "win_pct": 0.575
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 49,
+        "wins": 32,
+        "losses": 17,
+        "win_pct": 0.653
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 33,
+        "losses": 22,
+        "win_pct": 0.6
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 35,
+        "losses": 25,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 39,
+        "losses": 27,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 44,
+        "losses": 30,
+        "win_pct": 0.595
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      }
+    ]
+  },
+  {
+    "abbr": "LAC",
+    "team": "LA Clippers",
+    "season": "2023-24",
+    "final_wins": 51,
+    "final_losses": 31,
+    "final_win_pct": 0.622,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 10,
+        "wins": 3,
+        "losses": 7,
+        "win_pct": 0.3
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 8,
+        "losses": 10,
+        "win_pct": 0.444
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 14,
+        "losses": 10,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 20,
+        "losses": 12,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 25,
+        "losses": 14,
+        "win_pct": 0.641
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 46,
+        "wins": 31,
+        "losses": 15,
+        "win_pct": 0.674
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 53,
+        "wins": 36,
+        "losses": 17,
+        "win_pct": 0.679
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 58,
+        "wins": 38,
+        "losses": 20,
+        "win_pct": 0.655
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 42,
+        "losses": 24,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 47,
+        "losses": 27,
+        "win_pct": 0.635
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      }
+    ]
+  },
+  {
+    "abbr": "MIN",
+    "team": "Minnesota Timberwolves",
+    "season": "2023-24",
+    "final_wins": 56,
+    "final_losses": 26,
+    "final_win_pct": 0.683,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 8,
+        "losses": 3,
+        "win_pct": 0.727
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 14,
+        "losses": 4,
+        "win_pct": 0.778
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 18,
+        "losses": 5,
+        "win_pct": 0.783
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 24,
+        "losses": 8,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 28,
+        "losses": 11,
+        "win_pct": 0.718
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 34,
+        "losses": 14,
+        "win_pct": 0.708
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 39,
+        "losses": 16,
+        "win_pct": 0.709
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 42,
+        "losses": 18,
+        "win_pct": 0.7
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 45,
+        "losses": 21,
+        "win_pct": 0.682
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 51,
+        "losses": 23,
+        "win_pct": 0.689
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 56,
+        "losses": 26,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 56,
+        "losses": 26,
+        "win_pct": 0.683
+      }
+    ]
+  },
+  {
+    "abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": "2023-24",
+    "final_wins": 57,
+    "final_losses": 25,
+    "final_win_pct": 0.695,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 9,
+        "losses": 2,
+        "win_pct": 0.818
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 20,
+        "wins": 14,
+        "losses": 6,
+        "win_pct": 0.7
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 26,
+        "wins": 17,
+        "losses": 9,
+        "win_pct": 0.654
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 35,
+        "wins": 24,
+        "losses": 11,
+        "win_pct": 0.686
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 41,
+        "wins": 28,
+        "losses": 13,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 49,
+        "wins": 33,
+        "losses": 16,
+        "win_pct": 0.673
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 36,
+        "losses": 19,
+        "win_pct": 0.655
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 60,
+        "wins": 41,
+        "losses": 19,
+        "win_pct": 0.683
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 67,
+        "wins": 47,
+        "losses": 20,
+        "win_pct": 0.701
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 52,
+        "losses": 23,
+        "win_pct": 0.693
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      }
+    ]
+  },
+  {
+    "abbr": "OKC",
+    "team": "Oklahoma City Thunder",
+    "season": "2023-24",
+    "final_wins": 57,
+    "final_losses": 25,
+    "final_win_pct": 0.695,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 18,
+        "wins": 12,
+        "losses": 6,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 23,
+        "wins": 15,
+        "losses": 8,
+        "win_pct": 0.652
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 31,
+        "wins": 22,
+        "losses": 9,
+        "win_pct": 0.71
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 39,
+        "wins": 27,
+        "losses": 12,
+        "win_pct": 0.692
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 48,
+        "wins": 33,
+        "losses": 15,
+        "win_pct": 0.688
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 54,
+        "wins": 37,
+        "losses": 17,
+        "win_pct": 0.685
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 41,
+        "losses": 18,
+        "win_pct": 0.695
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 46,
+        "losses": 20,
+        "win_pct": 0.697
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 74,
+        "wins": 52,
+        "losses": 22,
+        "win_pct": 0.703
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      }
+    ]
+  },
+  {
+    "abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": "2023-24",
+    "final_wins": 64,
+    "final_losses": 18,
+    "final_win_pct": 0.78,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2023-11-15",
+        "gp": 11,
+        "wins": 9,
+        "losses": 2,
+        "win_pct": 0.818
+      },
+      {
+        "label": "Dec 01",
+        "date": "2023-12-01",
+        "gp": 19,
+        "wins": 15,
+        "losses": 4,
+        "win_pct": 0.789
+      },
+      {
+        "label": "Dec 15",
+        "date": "2023-12-15",
+        "gp": 24,
+        "wins": 19,
+        "losses": 5,
+        "win_pct": 0.792
+      },
+      {
+        "label": "Jan 01",
+        "date": "2024-01-01",
+        "gp": 32,
+        "wins": 26,
+        "losses": 6,
+        "win_pct": 0.813
+      },
+      {
+        "label": "Jan 15",
+        "date": "2024-01-15",
+        "gp": 40,
+        "wins": 31,
+        "losses": 9,
+        "win_pct": 0.775
+      },
+      {
+        "label": "Feb 01",
+        "date": "2024-02-01",
+        "gp": 49,
+        "wins": 37,
+        "losses": 12,
+        "win_pct": 0.755
+      },
+      {
+        "label": "Feb 15",
+        "date": "2024-02-15",
+        "gp": 55,
+        "wins": 43,
+        "losses": 12,
+        "win_pct": 0.782
+      },
+      {
+        "label": "Mar 01",
+        "date": "2024-03-01",
+        "gp": 59,
+        "wins": 47,
+        "losses": 12,
+        "win_pct": 0.797
+      },
+      {
+        "label": "Mar 15",
+        "date": "2024-03-15",
+        "gp": 66,
+        "wins": 52,
+        "losses": 14,
+        "win_pct": 0.788
+      },
+      {
+        "label": "Apr 01",
+        "date": "2024-04-01",
+        "gp": 75,
+        "wins": 59,
+        "losses": 16,
+        "win_pct": 0.787
+      },
+      {
+        "label": "Apr 20",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+      },
+      {
+        "label": "Final",
+        "date": "2024-04-20",
+        "gp": 82,
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+      }
+    ]
+  }
+]

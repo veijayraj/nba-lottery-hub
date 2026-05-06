@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0e0e0f">
+  <title>NBA Lottery Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700;800;900&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header class="site-header">
+  <div class="header-inner">
+
+    <!-- Basketball SVG logo -->
+    <svg class="header-logo" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="21" cy="21" r="19" fill="#9C5D41" stroke="#DABB9F" stroke-width="1.5"/>
+      <path d="M21 2 C21 2 21 40 21 40" stroke="#2a1f17" stroke-width="1.2" opacity="0.6"/>
+      <path d="M2 21 C2 21 40 21 40 21" stroke="#2a1f17" stroke-width="1.2" opacity="0.6"/>
+      <path d="M21 2 C10 8 10 34 21 40" stroke="#2a1f17" stroke-width="1" opacity="0.5" fill="none"/>
+      <path d="M21 2 C32 8 32 34 21 40" stroke="#2a1f17" stroke-width="1" opacity="0.5" fill="none"/>
+      <path d="M2 21 C8 10 34 10 40 21" stroke="#2a1f17" stroke-width="1" opacity="0.5" fill="none"/>
+      <path d="M2 21 C8 32 34 32 40 21" stroke="#2a1f17" stroke-width="1" opacity="0.5" fill="none"/>
+      <circle cx="21" cy="21" r="19" fill="none" stroke="#DABB9F" stroke-width="1.5"/>
+    </svg>
+
+    <h1>NBA <span>Lottery</span> <em>Hub</em></h1>
+  </div>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active"   data-panel="odds">2026 Odds</button>
+    <button class="tab"          data-panel="y2025">2025</button>
+    <button class="tab"          data-panel="y2024">2024</button>
+    <button class="tab"          data-panel="y2023">2023</button>
+    <button class="tab"          data-panel="y2022">2022</button>
+    <button class="tab"          data-panel="y2021">2021</button>
+    <button class="tab"          data-panel="y2020">2020</button>
+    <button class="tab"          data-panel="y2019">2019</button>
+    <button class="tab proposed" data-panel="proposed">2027 Proposed ★</button>
+    <button class="tab mock"     data-panel="mock">Mock Lottery 🎱</button>
+    <button class="tab tanking"  data-panel="tanking">Tanking Tracker 📉</button>
+  </nav>
+</header>
+
+<main>
+
+  <!-- ── 2026 Odds ── -->
+  <section class="panel active" id="panel-odds">
+    <div class="section-label">2026 NBA Draft Lottery — Probability Matrix</div>
+    <div class="odds-wrap" id="odds-table-wrap"></div>
+    <div class="note">
+      <strong>How to read this table:</strong> Each cell is the probability that seed lands that pick.
+      Cells showing <strong>—</strong> are 0% — picks 5–14 are only reachable within a ±4 seed sliding window.
+      <strong>Avg</strong> is the weighted average draft position for each seed.
+      <br><br>
+      <strong>Floor mechanic:</strong> No team can fall more than 4 spots from their pre-lottery seed.
+      The seed-1 team cannot pick lower than 5th regardless of outcome.
+    </div>
+  </section>
+
+  <!-- ── Historical panels (built by JS) ── -->
+  <section class="panel" id="panel-y2025"></section>
+  <section class="panel" id="panel-y2024"></section>
+  <section class="panel" id="panel-y2023"></section>
+  <section class="panel" id="panel-y2022"></section>
+  <section class="panel" id="panel-y2021"></section>
+  <section class="panel" id="panel-y2020"></section>
+  <section class="panel" id="panel-y2019"></section>
+
+  <!-- ── 2027 Proposed ── -->
+  <section class="panel" id="panel-proposed">
+
+    <div class="section-label">2027 Proposed Reform</div>
+
+    <div class="rule-box">
+      <h3>3-2-1 System Proposal</h3>
+      <ul id="rule-list"></ul>
+    </div>
+
+    <div class="section-label">Team Breakdown</div>
+    <div class="proposed-table-wrap" id="proposed-table-wrap"></div>
+
+    <div class="note">
+      Pick-1 odds = <code>(balls / 37) × 100</code>.
+      Total balls: seeds 1–3 × 2 + seeds 4–10 × 3 + 4 play-in 9/10 losers × 2 + 2 play-in 7/8 losers × 1 = 37.
+    </div>
+
+  </section>
+
+</main>
+
+  <!-- ── Mock Lottery ── -->
+  <section class="panel" id="panel-mock">
+    <div class="section-label">Mock Lottery Simulator</div>
+
+    <div class="sim-grid">
+
+      <!-- Pre-2019 -->
+      <div class="sim-col">
+        <div class="sim-header" style="border-color:#7a4a2a">
+          <div class="sim-era">Pre-2019</div>
+          <div class="sim-sub">Seed 1 = 25%</div>
+        </div>
+        <div class="sim-chart" id="chart-pre2019"></div>
+        <button class="sim-btn" onclick="runLotteryMode('pre2019')">▶ Simulate</button>
+        <div class="sim-results" id="picks-pre2019"></div>
+      </div>
+
+      <!-- 2026 -->
+      <div class="sim-col">
+        <div class="sim-header" style="border-color:var(--rust)">
+          <div class="sim-era">2019 – 2026</div>
+          <div class="sim-sub">Seed 1 = 14%</div>
+        </div>
+        <div class="sim-chart" id="chart-2026"></div>
+        <button class="sim-btn" onclick="runLotteryMode('2026')">▶ Simulate</button>
+        <div class="sim-results" id="picks-2026"></div>
+      </div>
+
+      <!-- 2027 proposed -->
+      <div class="sim-col">
+        <div class="sim-header" style="border-color:var(--green-lt)">
+          <div class="sim-era">2027 Proposed</div>
+          <div class="sim-sub">Mid-lottery = 8.1%</div>
+        </div>
+        <div class="sim-chart" id="chart-2027"></div>
+        <button class="sim-btn" style="border-color:var(--green-lt);color:var(--green-lt)" onclick="runLotteryMode('2027')">▶ Simulate</button>
+        <div class="sim-results" id="picks-2027"></div>
+      </div>
+
+    </div>
+
+    <button class="sim-btn-all" onclick="runAllModes()">▶▶ Simulate All Three</button>
+
+  </section>
+
+  <!-- ── Tanking Tracker ── -->
+  <section class="panel" id="panel-tanking">
+    <div class="section-label">Tanking Tracker</div>
+
+    <div class="tanking-controls">
+
+      <div class="tanking-row">
+        <div class="ctrl-group">
+          <label class="ctrl-label">Season</label>
+          <div class="season-btns" id="season-btns"></div>
+        </div>
+
+        <div class="ctrl-group">
+          <label class="ctrl-label">Chart Mode</label>
+          <div class="mode-btns">
+            <button class="mode-btn active" id="btn-static"   onclick="setChartMode('static',  this)">Static</button>
+            <button class="mode-btn"        id="btn-animated" onclick="setChartMode('animated', this)">Animated</button>
+          </div>
+        </div>
+
+        <button class="tanking-animate-btn" id="animateBtn" style="display:none" onclick="replayAnimation()">↺ Replay</button>
+      </div>
+
+      <div class="ctrl-group" style="margin-top:14px">
+        <label class="ctrl-label">Teams <span id="team-count" style="color:var(--slate)"></span></label>
+        <div class="team-toggles" id="team-toggles"></div>
+      </div>
+
+    </div>
+
+    <div class="tanking-chart-wrap">
+      <canvas id="tankingChart"></canvas>
+    </div>
+
+    <div class="note" style="margin-top:12px">
+      Win % at each bi-weekly snapshot through the season. Bottom 10 teams selected by default based on final record.
+      Toggle teams on/off to compare. <strong style="color:var(--rust)">Lower = more likely tanking.</strong>
+    </div>
+  </section>
+
+<script src="js/app.js"></script>
+
+<footer style="
+  border-top: 1px solid var(--border);
+  padding: 16px 28px;
+  font-size: 11px;
+  color: var(--slate);
+  letter-spacing: 0.08em;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+">
+  <span>Sources:</span>
+  <a href="https://basketball.realgm.com/nba/draft/lottery_results" target="_blank"
+     style="color:var(--blush);text-decoration:none;letter-spacing:.06em">RealGM</a>
+  <a href="https://www.espn.com/nba/story/_/id/38224590/nba-draft-lottery-odds-2026" target="_blank"
+     style="color:var(--blush);text-decoration:none;letter-spacing:.06em">ESPN</a>
+  <a href="https://en.wikipedia.org/wiki/NBA_draft_lottery" target="_blank"
+     style="color:var(--blush);text-decoration:none;letter-spacing:.06em">Wikipedia</a>
+  <span style="margin-left:auto;color:var(--text3)">Lottery simulation uses the NBA's combination-based draw method (C(14,4) = 1,001 combinations)</span>
+</footer>
+</body>
+</html>

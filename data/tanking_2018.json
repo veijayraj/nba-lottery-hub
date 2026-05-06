@@ -1,0 +1,3182 @@
+[
+  {
+    "abbr": "NYK",
+    "team": "New York Knicks",
+    "season": "2018-19",
+    "final_wins": 17,
+    "final_losses": 65,
+    "final_win_pct": 0.207,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 4,
+        "losses": 11,
+        "win_pct": 0.267
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 8,
+        "losses": 16,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 9,
+        "losses": 21,
+        "win_pct": 0.3
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 9,
+        "losses": 29,
+        "win_pct": 0.237
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 10,
+        "losses": 33,
+        "win_pct": 0.233
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 10,
+        "losses": 41,
+        "win_pct": 0.196
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 11,
+        "losses": 47,
+        "win_pct": 0.19
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 13,
+        "losses": 49,
+        "win_pct": 0.21
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 13,
+        "losses": 56,
+        "win_pct": 0.188
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 15,
+        "losses": 62,
+        "win_pct": 0.195
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 17,
+        "losses": 65,
+        "win_pct": 0.207
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 17,
+        "losses": 65,
+        "win_pct": 0.207
+      }
+    ]
+  },
+  {
+    "abbr": "CLE",
+    "team": "Cleveland Cavaliers",
+    "season": "2018-19",
+    "final_wins": 19,
+    "final_losses": 63,
+    "final_win_pct": 0.232,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 2,
+        "losses": 12,
+        "win_pct": 0.143
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 4,
+        "losses": 18,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 7,
+        "losses": 22,
+        "win_pct": 0.241
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 8,
+        "losses": 29,
+        "win_pct": 0.216
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 9,
+        "losses": 35,
+        "win_pct": 0.205
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 11,
+        "losses": 41,
+        "win_pct": 0.212
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 12,
+        "losses": 46,
+        "win_pct": 0.207
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 15,
+        "losses": 47,
+        "win_pct": 0.242
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 17,
+        "losses": 52,
+        "win_pct": 0.246
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 19,
+        "losses": 59,
+        "win_pct": 0.244
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+      }
+    ]
+  },
+  {
+    "abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": "2018-19",
+    "final_wins": 19,
+    "final_losses": 63,
+    "final_win_pct": 0.232,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 3,
+        "losses": 11,
+        "win_pct": 0.214
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 4,
+        "losses": 18,
+        "win_pct": 0.182
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 6,
+        "losses": 24,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 9,
+        "losses": 29,
+        "win_pct": 0.237
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 11,
+        "losses": 34,
+        "win_pct": 0.244
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 11,
+        "losses": 42,
+        "win_pct": 0.208
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 11,
+        "losses": 48,
+        "win_pct": 0.186
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 12,
+        "losses": 51,
+        "win_pct": 0.19
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 70,
+        "wins": 16,
+        "losses": 54,
+        "win_pct": 0.229
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 18,
+        "losses": 60,
+        "win_pct": 0.231
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+      }
+    ]
+  },
+  {
+    "abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": "2018-19",
+    "final_wins": 22,
+    "final_losses": 60,
+    "final_win_pct": 0.268,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 4,
+        "losses": 11,
+        "win_pct": 0.267
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 5,
+        "losses": 19,
+        "win_pct": 0.208
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 7,
+        "losses": 23,
+        "win_pct": 0.233
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 10,
+        "losses": 27,
+        "win_pct": 0.27
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 10,
+        "losses": 34,
+        "win_pct": 0.227
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 12,
+        "losses": 40,
+        "win_pct": 0.231
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 14,
+        "losses": 44,
+        "win_pct": 0.241
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 18,
+        "losses": 45,
+        "win_pct": 0.286
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 70,
+        "wins": 19,
+        "losses": 51,
+        "win_pct": 0.271
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 21,
+        "losses": 57,
+        "win_pct": 0.269
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 22,
+        "losses": 60,
+        "win_pct": 0.268
+      }
+    ]
+  },
+  {
+    "abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": "2018-19",
+    "final_wins": 29,
+    "final_losses": 53,
+    "final_win_pct": 0.354,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 3,
+        "losses": 12,
+        "win_pct": 0.2
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 5,
+        "losses": 18,
+        "win_pct": 0.217
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 6,
+        "losses": 22,
+        "win_pct": 0.214
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 11,
+        "losses": 25,
+        "win_pct": 0.306
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 14,
+        "losses": 30,
+        "win_pct": 0.318
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 16,
+        "losses": 35,
+        "win_pct": 0.314
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 19,
+        "losses": 39,
+        "win_pct": 0.328
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 21,
+        "losses": 42,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 24,
+        "losses": 45,
+        "win_pct": 0.348
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 28,
+        "losses": 49,
+        "win_pct": 0.364
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 29,
+        "losses": 53,
+        "win_pct": 0.354
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 29,
+        "losses": 53,
+        "win_pct": 0.354
+      }
+    ]
+  },
+  {
+    "abbr": "WAS",
+    "team": "Washington Wizards",
+    "season": "2018-19",
+    "final_wins": 32,
+    "final_losses": 50,
+    "final_win_pct": 0.39,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 5,
+        "losses": 9,
+        "win_pct": 0.357
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 9,
+        "losses": 14,
+        "win_pct": 0.391
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 11,
+        "losses": 18,
+        "win_pct": 0.379
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 14,
+        "losses": 23,
+        "win_pct": 0.378
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 18,
+        "losses": 26,
+        "win_pct": 0.409
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 22,
+        "losses": 29,
+        "win_pct": 0.431
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 24,
+        "losses": 34,
+        "win_pct": 0.414
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 25,
+        "losses": 37,
+        "win_pct": 0.403
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 29,
+        "losses": 40,
+        "win_pct": 0.42
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 32,
+        "losses": 46,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 32,
+        "losses": 50,
+        "win_pct": 0.39
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 32,
+        "losses": 50,
+        "win_pct": 0.39
+      }
+    ]
+  },
+  {
+    "abbr": "DAL",
+    "team": "Dallas Mavericks",
+    "season": "2018-19",
+    "final_wins": 33,
+    "final_losses": 49,
+    "final_win_pct": 0.402,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 20,
+        "wins": 10,
+        "losses": 10,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 27,
+        "wins": 15,
+        "losses": 12,
+        "win_pct": 0.556
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 17,
+        "losses": 19,
+        "win_pct": 0.472
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 20,
+        "losses": 23,
+        "win_pct": 0.465
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 23,
+        "losses": 28,
+        "win_pct": 0.451
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 26,
+        "losses": 31,
+        "win_pct": 0.456
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 61,
+        "wins": 27,
+        "losses": 34,
+        "win_pct": 0.443
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 27,
+        "losses": 41,
+        "win_pct": 0.397
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 31,
+        "losses": 46,
+        "win_pct": 0.403
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      }
+    ]
+  },
+  {
+    "abbr": "MEM",
+    "team": "Memphis Grizzlies",
+    "season": "2018-19",
+    "final_wins": 33,
+    "final_losses": 49,
+    "final_win_pct": 0.402,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 13,
+        "wins": 8,
+        "losses": 5,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 21,
+        "wins": 13,
+        "losses": 8,
+        "win_pct": 0.619
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 16,
+        "losses": 13,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 18,
+        "losses": 18,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 19,
+        "losses": 24,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 20,
+        "losses": 33,
+        "win_pct": 0.377
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 23,
+        "losses": 36,
+        "win_pct": 0.39
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 24,
+        "losses": 39,
+        "win_pct": 0.381
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 28,
+        "losses": 41,
+        "win_pct": 0.406
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 31,
+        "losses": 46,
+        "win_pct": 0.403
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      }
+    ]
+  },
+  {
+    "abbr": "NOP",
+    "team": "New Orleans Pelicans",
+    "season": "2018-19",
+    "final_wins": 33,
+    "final_losses": 49,
+    "final_win_pct": 0.402,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_pct": 0.478
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 15,
+        "losses": 15,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 17,
+        "losses": 21,
+        "win_pct": 0.447
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 21,
+        "losses": 23,
+        "win_pct": 0.477
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 23,
+        "losses": 29,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 26,
+        "losses": 33,
+        "win_pct": 0.441
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 64,
+        "wins": 28,
+        "losses": 36,
+        "win_pct": 0.438
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 71,
+        "wins": 30,
+        "losses": 41,
+        "win_pct": 0.423
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 32,
+        "losses": 46,
+        "win_pct": 0.41
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 33,
+        "losses": 49,
+        "win_pct": 0.402
+      }
+    ]
+  },
+  {
+    "abbr": "MIN",
+    "team": "Minnesota Timberwolves",
+    "season": "2018-19",
+    "final_wins": 36,
+    "final_losses": 46,
+    "final_win_pct": 0.439,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 6,
+        "losses": 9,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_pct": 0.478
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 13,
+        "losses": 16,
+        "win_pct": 0.448
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 17,
+        "losses": 20,
+        "win_pct": 0.459
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 21,
+        "losses": 23,
+        "win_pct": 0.477
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 25,
+        "losses": 26,
+        "win_pct": 0.49
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 27,
+        "losses": 30,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 29,
+        "losses": 33,
+        "win_pct": 0.468
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 32,
+        "losses": 37,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 34,
+        "losses": 43,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+      }
+    ]
+  },
+  {
+    "abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": "2018-19",
+    "final_wins": 37,
+    "final_losses": 45,
+    "final_win_pct": 0.451,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 13,
+        "losses": 9,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 18,
+        "losses": 11,
+        "win_pct": 0.621
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 21,
+        "losses": 16,
+        "win_pct": 0.568
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 24,
+        "losses": 21,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 27,
+        "losses": 25,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 28,
+        "losses": 29,
+        "win_pct": 0.491
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 30,
+        "losses": 32,
+        "win_pct": 0.484
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 31,
+        "losses": 38,
+        "win_pct": 0.449
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 35,
+        "losses": 42,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+      }
+    ]
+  },
+  {
+    "abbr": "CHA",
+    "team": "Charlotte Hornets",
+    "season": "2018-19",
+    "final_wins": 39,
+    "final_losses": 43,
+    "final_win_pct": 0.476,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 14,
+        "losses": 15,
+        "win_pct": 0.483
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 18,
+        "losses": 18,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 20,
+        "losses": 23,
+        "win_pct": 0.465
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 25,
+        "losses": 26,
+        "win_pct": 0.49
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 27,
+        "losses": 30,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 29,
+        "losses": 33,
+        "win_pct": 0.468
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 31,
+        "losses": 37,
+        "win_pct": 0.456
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 35,
+        "losses": 42,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      }
+    ]
+  },
+  {
+    "abbr": "MIA",
+    "team": "Miami Heat",
+    "season": "2018-19",
+    "final_wins": 39,
+    "final_losses": 43,
+    "final_win_pct": 0.476,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 21,
+        "wins": 8,
+        "losses": 13,
+        "win_pct": 0.381
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 12,
+        "losses": 16,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 35,
+        "wins": 17,
+        "losses": 18,
+        "win_pct": 0.486
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 42,
+        "wins": 21,
+        "losses": 21,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 50,
+        "wins": 24,
+        "losses": 26,
+        "win_pct": 0.48
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 56,
+        "wins": 26,
+        "losses": 30,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 61,
+        "wins": 27,
+        "losses": 34,
+        "win_pct": 0.443
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 32,
+        "losses": 36,
+        "win_pct": 0.471
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 38,
+        "losses": 39,
+        "win_pct": 0.494
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      }
+    ]
+  },
+  {
+    "abbr": "SAC",
+    "team": "Sacramento Kings",
+    "season": "2018-19",
+    "final_wins": 39,
+    "final_losses": 43,
+    "final_win_pct": 0.476,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 15,
+        "losses": 13,
+        "win_pct": 0.536
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 19,
+        "losses": 18,
+        "win_pct": 0.514
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 23,
+        "losses": 21,
+        "win_pct": 0.523
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 26,
+        "losses": 25,
+        "win_pct": 0.51
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 30,
+        "losses": 27,
+        "win_pct": 0.526
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 31,
+        "losses": 31,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 33,
+        "losses": 35,
+        "win_pct": 0.485
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 38,
+        "losses": 39,
+        "win_pct": 0.494
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+      }
+    ]
+  },
+  {
+    "abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": "2018-19",
+    "final_wins": 41,
+    "final_losses": 41,
+    "final_win_pct": 0.5,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 13,
+        "wins": 7,
+        "losses": 6,
+        "win_pct": 0.538
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 20,
+        "wins": 13,
+        "losses": 7,
+        "win_pct": 0.65
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 27,
+        "wins": 14,
+        "losses": 13,
+        "win_pct": 0.519
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 35,
+        "wins": 16,
+        "losses": 19,
+        "win_pct": 0.457
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 42,
+        "wins": 18,
+        "losses": 24,
+        "win_pct": 0.429
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 50,
+        "wins": 22,
+        "losses": 28,
+        "win_pct": 0.44
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 56,
+        "wins": 26,
+        "losses": 30,
+        "win_pct": 0.464
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 60,
+        "wins": 29,
+        "losses": 31,
+        "win_pct": 0.483
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 35,
+        "losses": 33,
+        "win_pct": 0.515
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 39,
+        "losses": 38,
+        "win_pct": 0.506
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+      }
+    ]
+  },
+  {
+    "abbr": "BKN",
+    "team": "Brooklyn Nets",
+    "season": "2018-19",
+    "final_wins": 42,
+    "final_losses": 40,
+    "final_win_pct": 0.512,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 6,
+        "losses": 9,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 8,
+        "losses": 16,
+        "win_pct": 0.333
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 12,
+        "losses": 18,
+        "win_pct": 0.4
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 17,
+        "losses": 21,
+        "win_pct": 0.447
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 22,
+        "losses": 23,
+        "win_pct": 0.489
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 28,
+        "losses": 25,
+        "win_pct": 0.528
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 30,
+        "losses": 29,
+        "win_pct": 0.508
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 64,
+        "wins": 32,
+        "losses": 32,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 70,
+        "wins": 36,
+        "losses": 34,
+        "win_pct": 0.514
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 39,
+        "losses": 39,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      }
+    ]
+  },
+  {
+    "abbr": "ORL",
+    "team": "Orlando Magic",
+    "season": "2018-19",
+    "final_wins": 42,
+    "final_losses": 40,
+    "final_win_pct": 0.512,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 7,
+        "losses": 8,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_pct": 0.478
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 14,
+        "losses": 15,
+        "win_pct": 0.483
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 16,
+        "losses": 20,
+        "win_pct": 0.444
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 19,
+        "losses": 24,
+        "win_pct": 0.442
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 21,
+        "losses": 31,
+        "win_pct": 0.404
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 27,
+        "losses": 32,
+        "win_pct": 0.458
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 29,
+        "losses": 34,
+        "win_pct": 0.46
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 70,
+        "wins": 32,
+        "losses": 38,
+        "win_pct": 0.457
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 38,
+        "losses": 40,
+        "win_pct": 0.487
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 42,
+        "losses": 40,
+        "win_pct": 0.512
+      }
+    ]
+  },
+  {
+    "abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": "2018-19",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 13,
+        "losses": 10,
+        "win_pct": 0.565
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 19,
+        "losses": 10,
+        "win_pct": 0.655
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 25,
+        "losses": 12,
+        "win_pct": 0.676
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 29,
+        "losses": 14,
+        "win_pct": 0.674
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 32,
+        "losses": 19,
+        "win_pct": 0.627
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 38,
+        "losses": 20,
+        "win_pct": 0.655
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 41,
+        "losses": 22,
+        "win_pct": 0.651
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 44,
+        "losses": 25,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 46,
+        "losses": 32,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "LAC",
+    "team": "LA Clippers",
+    "season": "2018-19",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 9,
+        "losses": 5,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 21,
+        "wins": 15,
+        "losses": 6,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 17,
+        "losses": 12,
+        "win_pct": 0.586
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 37,
+        "wins": 21,
+        "losses": 16,
+        "win_pct": 0.568
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 24,
+        "losses": 19,
+        "win_pct": 0.558
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 28,
+        "losses": 24,
+        "win_pct": 0.538
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 32,
+        "losses": 27,
+        "win_pct": 0.542
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 64,
+        "wins": 35,
+        "losses": 29,
+        "win_pct": 0.547
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 70,
+        "wins": 40,
+        "losses": 30,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 47,
+        "losses": 31,
+        "win_pct": 0.603
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": "2018-19",
+    "final_wins": 48,
+    "final_losses": 34,
+    "final_win_pct": 0.585,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 10,
+        "losses": 12,
+        "win_pct": 0.455
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 15,
+        "losses": 15,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 21,
+        "losses": 17,
+        "win_pct": 0.553
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 25,
+        "losses": 20,
+        "win_pct": 0.556
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 31,
+        "losses": 22,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 33,
+        "losses": 26,
+        "win_pct": 0.559
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 34,
+        "losses": 29,
+        "win_pct": 0.54
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 40,
+        "losses": 29,
+        "win_pct": 0.58
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 44,
+        "losses": 33,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+      }
+    ]
+  },
+  {
+    "abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": "2018-19",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 13,
+        "losses": 10,
+        "win_pct": 0.565
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 18,
+        "losses": 11,
+        "win_pct": 0.621
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 21,
+        "losses": 15,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 25,
+        "losses": 18,
+        "win_pct": 0.581
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 33,
+        "losses": 19,
+        "win_pct": 0.635
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 37,
+        "losses": 21,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 38,
+        "losses": 25,
+        "win_pct": 0.603
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 42,
+        "losses": 27,
+        "win_pct": 0.609
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 46,
+        "losses": 32,
+        "win_pct": 0.59
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "OKC",
+    "team": "Oklahoma City Thunder",
+    "season": "2018-19",
+    "final_wins": 49,
+    "final_losses": 33,
+    "final_win_pct": 0.598,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 9,
+        "losses": 5,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 21,
+        "wins": 14,
+        "losses": 7,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 18,
+        "losses": 10,
+        "win_pct": 0.643
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 23,
+        "losses": 13,
+        "win_pct": 0.639
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 26,
+        "losses": 17,
+        "win_pct": 0.605
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 33,
+        "losses": 18,
+        "win_pct": 0.647
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 37,
+        "losses": 20,
+        "win_pct": 0.649
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 61,
+        "wins": 38,
+        "losses": 23,
+        "win_pct": 0.623
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 42,
+        "losses": 27,
+        "win_pct": 0.609
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 44,
+        "losses": 33,
+        "win_pct": 0.571
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+      }
+    ]
+  },
+  {
+    "abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": "2018-19",
+    "final_wins": 50,
+    "final_losses": 32,
+    "final_win_pct": 0.61,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_pct": 0.478
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 14,
+        "losses": 16,
+        "win_pct": 0.467
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 18,
+        "losses": 20,
+        "win_pct": 0.474
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 24,
+        "losses": 21,
+        "win_pct": 0.533
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 30,
+        "losses": 23,
+        "win_pct": 0.566
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 32,
+        "losses": 25,
+        "win_pct": 0.561
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 61,
+        "wins": 35,
+        "losses": 26,
+        "win_pct": 0.574
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 39,
+        "losses": 29,
+        "win_pct": 0.574
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 47,
+        "losses": 30,
+        "win_pct": 0.61
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+      }
+    ]
+  },
+  {
+    "abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": "2018-19",
+    "final_wins": 51,
+    "final_losses": 31,
+    "final_win_pct": 0.622,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 16,
+        "wins": 9,
+        "losses": 7,
+        "win_pct": 0.563
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 16,
+        "losses": 8,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 19,
+        "losses": 11,
+        "win_pct": 0.633
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 24,
+        "losses": 14,
+        "win_pct": 0.632
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 29,
+        "losses": 16,
+        "win_pct": 0.644
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 34,
+        "losses": 18,
+        "win_pct": 0.654
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 58,
+        "wins": 37,
+        "losses": 21,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 40,
+        "losses": 22,
+        "win_pct": 0.645
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 44,
+        "losses": 25,
+        "win_pct": 0.638
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 49,
+        "losses": 28,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+      }
+    ]
+  },
+  {
+    "abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": "2018-19",
+    "final_wins": 53,
+    "final_losses": 29,
+    "final_win_pct": 0.646,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 7,
+        "losses": 7,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 11,
+        "losses": 11,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_pct": 0.5
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 21,
+        "losses": 15,
+        "win_pct": 0.583
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 25,
+        "losses": 18,
+        "win_pct": 0.581
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 29,
+        "losses": 22,
+        "win_pct": 0.569
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 33,
+        "losses": 24,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 37,
+        "losses": 25,
+        "win_pct": 0.597
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 43,
+        "losses": 26,
+        "win_pct": 0.623
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 49,
+        "losses": 28,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      }
+    ]
+  },
+  {
+    "abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": "2018-19",
+    "final_wins": 53,
+    "final_losses": 29,
+    "final_win_pct": 0.646,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 10,
+        "losses": 4,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 13,
+        "losses": 9,
+        "win_pct": 0.591
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 29,
+        "wins": 16,
+        "losses": 13,
+        "win_pct": 0.552
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 22,
+        "losses": 16,
+        "win_pct": 0.579
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 26,
+        "losses": 19,
+        "win_pct": 0.578
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 52,
+        "wins": 32,
+        "losses": 20,
+        "win_pct": 0.615
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 34,
+        "losses": 23,
+        "win_pct": 0.596
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 38,
+        "losses": 24,
+        "win_pct": 0.613
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 68,
+        "wins": 42,
+        "losses": 26,
+        "win_pct": 0.618
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 77,
+        "wins": 49,
+        "losses": 28,
+        "win_pct": 0.636
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 53,
+        "losses": 29,
+        "win_pct": 0.646
+      }
+    ]
+  },
+  {
+    "abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": "2018-19",
+    "final_wins": 54,
+    "final_losses": 28,
+    "final_win_pct": 0.659,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 10,
+        "losses": 5,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 15,
+        "losses": 7,
+        "win_pct": 0.682
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 19,
+        "losses": 9,
+        "win_pct": 0.679
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 35,
+        "wins": 24,
+        "losses": 11,
+        "win_pct": 0.686
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 29,
+        "losses": 14,
+        "win_pct": 0.674
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 36,
+        "losses": 15,
+        "win_pct": 0.706
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 39,
+        "losses": 18,
+        "win_pct": 0.684
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 61,
+        "wins": 42,
+        "losses": 19,
+        "win_pct": 0.689
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 67,
+        "wins": 45,
+        "losses": 22,
+        "win_pct": 0.672
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 76,
+        "wins": 51,
+        "losses": 25,
+        "win_pct": 0.671
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 54,
+        "losses": 28,
+        "win_pct": 0.659
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 54,
+        "losses": 28,
+        "win_pct": 0.659
+      }
+    ]
+  },
+  {
+    "abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": "2018-19",
+    "final_wins": 57,
+    "final_losses": 25,
+    "final_win_pct": 0.695,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 16,
+        "wins": 12,
+        "losses": 4,
+        "win_pct": 0.75
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 15,
+        "losses": 9,
+        "win_pct": 0.625
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 30,
+        "wins": 20,
+        "losses": 10,
+        "win_pct": 0.667
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 38,
+        "wins": 25,
+        "losses": 13,
+        "win_pct": 0.658
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 44,
+        "wins": 30,
+        "losses": 14,
+        "win_pct": 0.682
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 51,
+        "wins": 36,
+        "losses": 15,
+        "win_pct": 0.706
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 41,
+        "losses": 16,
+        "win_pct": 0.719
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 43,
+        "losses": 19,
+        "win_pct": 0.694
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 67,
+        "wins": 46,
+        "losses": 21,
+        "win_pct": 0.687
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 76,
+        "wins": 52,
+        "losses": 24,
+        "win_pct": 0.684
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 57,
+        "losses": 25,
+        "win_pct": 0.695
+      }
+    ]
+  },
+  {
+    "abbr": "TOR",
+    "team": "Toronto Raptors",
+    "season": "2018-19",
+    "final_wins": 58,
+    "final_losses": 24,
+    "final_win_pct": 0.707,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 15,
+        "wins": 12,
+        "losses": 3,
+        "win_pct": 0.8
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 24,
+        "wins": 20,
+        "losses": 4,
+        "win_pct": 0.833
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 31,
+        "wins": 23,
+        "losses": 8,
+        "win_pct": 0.742
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 39,
+        "wins": 28,
+        "losses": 11,
+        "win_pct": 0.718
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 45,
+        "wins": 33,
+        "losses": 12,
+        "win_pct": 0.733
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 53,
+        "wins": 37,
+        "losses": 16,
+        "win_pct": 0.698
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 59,
+        "wins": 43,
+        "losses": 16,
+        "win_pct": 0.729
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 63,
+        "wins": 46,
+        "losses": 17,
+        "win_pct": 0.73
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 49,
+        "losses": 20,
+        "win_pct": 0.71
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 55,
+        "losses": 23,
+        "win_pct": 0.705
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 58,
+        "losses": 24,
+        "win_pct": 0.707
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 58,
+        "losses": 24,
+        "win_pct": 0.707
+      }
+    ]
+  },
+  {
+    "abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": "2018-19",
+    "final_wins": 60,
+    "final_losses": 22,
+    "final_win_pct": 0.732,
+    "snapshots": [
+      {
+        "label": "Nov 15",
+        "date": "2018-11-15",
+        "gp": 14,
+        "wins": 10,
+        "losses": 4,
+        "win_pct": 0.714
+      },
+      {
+        "label": "Dec 01",
+        "date": "2018-12-01",
+        "gp": 22,
+        "wins": 15,
+        "losses": 7,
+        "win_pct": 0.682
+      },
+      {
+        "label": "Dec 15",
+        "date": "2018-12-15",
+        "gp": 28,
+        "wins": 19,
+        "losses": 9,
+        "win_pct": 0.679
+      },
+      {
+        "label": "Jan 01",
+        "date": "2019-01-01",
+        "gp": 36,
+        "wins": 26,
+        "losses": 10,
+        "win_pct": 0.722
+      },
+      {
+        "label": "Jan 15",
+        "date": "2019-01-15",
+        "gp": 43,
+        "wins": 31,
+        "losses": 12,
+        "win_pct": 0.721
+      },
+      {
+        "label": "Feb 01",
+        "date": "2019-02-01",
+        "gp": 50,
+        "wins": 37,
+        "losses": 13,
+        "win_pct": 0.74
+      },
+      {
+        "label": "Feb 15",
+        "date": "2019-02-15",
+        "gp": 57,
+        "wins": 43,
+        "losses": 14,
+        "win_pct": 0.754
+      },
+      {
+        "label": "Mar 01",
+        "date": "2019-03-01",
+        "gp": 62,
+        "wins": 48,
+        "losses": 14,
+        "win_pct": 0.774
+      },
+      {
+        "label": "Mar 15",
+        "date": "2019-03-15",
+        "gp": 69,
+        "wins": 52,
+        "losses": 17,
+        "win_pct": 0.754
+      },
+      {
+        "label": "Apr 01",
+        "date": "2019-04-01",
+        "gp": 78,
+        "wins": 58,
+        "losses": 20,
+        "win_pct": 0.744
+      },
+      {
+        "label": "Apr 20",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 60,
+        "losses": 22,
+        "win_pct": 0.732
+      },
+      {
+        "label": "Final",
+        "date": "2019-04-20",
+        "gp": 82,
+        "wins": 60,
+        "losses": 22,
+        "win_pct": 0.732
+      }
+    ]
+  }
+]

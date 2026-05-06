@@ -1,0 +1,37 @@
+{
+  "totalBalls": 37,
+  "rules": [
+    "Expanded to 16 teams — bottom 14 plus 4 play-in losers (both 9/10 and 7/8 losers from each conference)",
+    "Relegation zone (seeds 1–3): 2 balls each — 5.4% pick-1 odds. Being the worst is actively punished",
+    "Mid-lottery zone (seeds 4–10): 3 balls each — 8.1% pick-1 odds. Highest chance at the top pick",
+    "9/10 play-in losers: 2 balls each (5.4%). 7/8 play-in losers: 1 ball each (2.7%)",
+    "Floor picks: seeds 1–3 cannot fall below pick 12, seeds 4–10 cannot fall below pick 16",
+    "Consecutive win restriction: no team can hold the #1 pick in back-to-back years",
+    "Sunset clause: system reviewed and voted on after the 2029 draft"
+  ],
+  "statCards": [
+    { "num": "16",   "label": "Lottery Teams"          },
+    { "num": "8.1%", "label": "Best Pick-1 Odds"       },
+    { "num": "5.4%", "label": "Worst Team Pick-1 Odds" },
+    { "num": "No",   "label": "Back-to-Back #1 Picks"  }
+  ],
+  "callout": "Under this system, seeds 4-10 (8.1%) have better pick-1 odds than seeds 1-3 (5.4%). Being the worst team is punished — tanking for the top pick becomes a losing strategy.",
+  "teams": [
+    { "seed": 1,            "zone": "Relegation",   "balls": 2, "floor": 12   },
+    { "seed": 2,            "zone": "Relegation",   "balls": 2, "floor": 12   },
+    { "seed": 3,            "zone": "Relegation",   "balls": 2, "floor": 12   },
+    { "seed": 4,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 5,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 6,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 7,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 8,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 9,            "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": 10,           "zone": "Mid-Lottery",  "balls": 3, "floor": 16   },
+    { "seed": "9/10 W",     "zone": "Play-In 9/10", "balls": 2, "floor": null },
+    { "seed": "9/10 E",     "zone": "Play-In 9/10", "balls": 2, "floor": null },
+    { "seed": "9/10 W",     "zone": "Play-In 9/10", "balls": 2, "floor": null },
+    { "seed": "9/10 E",     "zone": "Play-In 9/10", "balls": 2, "floor": null },
+    { "seed": "7/8 W",      "zone": "Play-In 7/8",  "balls": 1, "floor": null },
+    { "seed": "7/8 E",      "zone": "Play-In 7/8",  "balls": 1, "floor": null }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "year": 2026,
+  "system": "2019+",
+  "note": "Probabilities from official NBA lottery odds. Picks 5-14 are only reachable within a sliding window — no team can fall more than 4 spots from their pre-lottery seed.",
+  "teams": [
+    { "seed": 1,  "team": "Washington Wizards",              "abbr": "WAS", "odds": 14.0 },
+    { "seed": 2,  "team": "Indiana Pacers",                  "abbr": "IND", "odds": 14.0 },
+    { "seed": 3,  "team": "Brooklyn Nets",                   "abbr": "BKN", "odds": 14.0 },
+    { "seed": 4,  "team": "Utah Jazz",                       "abbr": "UTA", "odds": 11.5 },
+    { "seed": 5,  "team": "Sacramento Kings",                "abbr": "SAC", "odds": 11.5 },
+    { "seed": 6,  "team": "Memphis Grizzlies",               "abbr": "MEM", "odds": 8.0  },
+    { "seed": 7,  "team": "Atlanta Hawks (via NOP)",         "abbr": "ATL", "odds": 6.8  },
+    { "seed": 8,  "team": "Dallas Mavericks",                "abbr": "DAL", "odds": 6.7  },
+    { "seed": 9,  "team": "Chicago Bulls",                   "abbr": "CHI", "odds": 4.5  },
+    { "seed": 10, "team": "Milwaukee Bucks",                 "abbr": "MIL", "odds": 3.0  },
+    { "seed": 11, "team": "Golden State Warriors",           "abbr": "GSW", "odds": 2.0  },
+    { "seed": 12, "team": "Oklahoma City Thunder (via LAC)", "abbr": "OKC", "odds": 1.5  },
+    { "seed": 13, "team": "Miami Heat",                      "abbr": "MIA", "odds": 1.0  },
+    { "seed": 14, "team": "Charlotte Hornets",               "abbr": "CHA", "odds": 0.5  }
+  ],
+  "probabilities": [
+    [14.0, 13.4, 12.7, 11.9, 47.9, 0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0 ],
+    [14.0, 13.4, 12.7, 11.9, 27.8, 20.0, 0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0 ],
+    [14.0, 13.4, 12.7, 11.9, 14.8, 26.0, 7.1,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0 ],
+    [11.5, 11.2, 10.9, 10.5, 7.2,  25.7, 16.8, 2.2,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0 ],
+    [11.5, 11.2, 10.9, 10.5, 2.2,  19.6, 26.7, 8.8,  0.6,  0.0,  0.0,  0.0,  0.0,  0.0 ],
+    [8.0,  8.0,  8.0,  8.0,  0.0,  8.6,  29.6, 20.6, 3.8,  0.2,  0.0,  0.0,  0.0,  0.0 ],
+    [6.8,  6.8,  6.8,  6.8,  0.0,  0.0,  19.7, 37.2, 15.1, 1.6,  0.0,  0.0,  0.0,  0.0 ],
+    [6.7,  6.7,  6.7,  6.7,  0.0,  0.0,  0.0,  31.2, 34.1, 8.0,  0.5,  0.0,  0.0,  0.0 ],
+    [4.5,  4.5,  4.5,  4.5,  0.0,  0.0,  0.0,  0.0,  46.4, 24.3, 2.9,  0.1,  0.0,  0.0 ],
+    [3.0,  3.3,  3.6,  4.0,  0.0,  0.0,  0.0,  0.0,  0.0,  65.9, 19.0, 1.2,  0.0,  0.0 ],
+    [2.0,  2.2,  2.4,  2.8,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  77.6, 12.6, 0.4,  0.0 ],
+    [1.5,  1.5,  1.5,  1.5,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  86.1, 9.0,  0.2 ],
+    [1.0,  1.1,  1.2,  1.4,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  90.6, 4.6 ],
+    [0.5,  0.5,  0.5,  0.5,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  95.2]
+  ]
+}
